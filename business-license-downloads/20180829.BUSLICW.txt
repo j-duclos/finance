@@ -1,0 +1,61 @@
+SAGE DINING SERVICES INC                                    20180801PLL            CRP1402    YORK                RD                      LUTHERVILLE    MD21093              N
+JUANITA C STEWARD                                           20180822PLL            SOL1031  E JAMES E ROGERS      WAY 206                 TUCSON         AZ85719              N
+SHEPHERD WEALTH & RETIREMENT                                20180101PLL            CRP6300  E EL DORADO           PLZ A200                TUCSON         AZ85715              N
+ADI                                                         20180710PLL            CRP263     OLD COUNTRY         RD                      MELVILLE       NY11747              N
+THAT TREE GUY                                               20180820PLL            SOL9160  S SILVER STAR         DR                      TUCSON         AZ85735              N
+RAMONA'S CLEANING                                           20180822PLL            SOL826   W MOSSMAN             ST                      TUCSON         AZ85706              N
+AFFORDABLE ONE NURSING SERVICES                             20180822PLL            SOL4064  W PLANTATION          ST                      TUCSON         AZ85741              N
+ALR ENGINEERING INC                                         20180822PLL            CRP1131  N WINSTEL             BL                      TUCSON         AZ85716              N
+THE PURPLE DRAGON LLC                                       20180822PLL            LLC3404  S HAMILTON            PL                      TUCSON         AZ85730              N
+DICK'S SPORTING GOODS                                       20180912PLL            CRP345     COURT               ST                      CORAOPOLIS     PA15108    7242733338N
+TANNUS AMERICA                                              20181113PLL            LLC800   N 700 EAST            ST                      SPANISH FORK   UT8466013173852275393N
+UNCHAINED                                                   20180810PLL            SOL10    W WILLIAM CAREY       ST                      CORONA DE TUCSOAZ85641              N
+ARIZONA PROFESSIONAL UTILITIES, INC                         20180901PLL            CRP6161  E GRANT               RD  10115               TUCSON         AZ85712              N
+AUTOSPORT AUDIO + ACCESSORIES                               20180823PLL            SOL2807  S 12TH                AV                      TUCSON         AZ85714              N
+CATALINA HOME IMPROVEMENT LLC                               20180501PLL            LLC9855  E IRVINGTON           RD  241                 TUCSON         AZ85730              N
+CREATIVE PAINTING & MORE                                    20180823PLL            PRT3744  E DRYDOCK             PL                      TUCSON         AZ85739              N
+M & L CLEANING SERVICE                                      20180823PLL            PRT2800  S MISSION             RD  11104               TUCSON         AZ85713              N
+SOBY ENTERPRISES                                            20180626PLL            GEN1255  W ROLLER COASTER      RD                      TUCSON         AZ85704    5204493982N
+CLINICAL OUTCOMES SOLUTIONS                                 20180101PLL            LLC1790  E RIVER               RD  205                 TUCSON         AZ85718    5203259510N
+SUNRISE ACCOUNTING & CONSULTIN                              20180701PLL            LLC2930  N SWAN                RD  209                 TUCSON         AZ85712              N
+GAINZ PERSONAL TRAINING AND MOBIL FITNES                    20180824PLL            SOL6442  S BUCKAROO            LP                      TUCSON         AZ85757              N
+AMERICAN STONE TOOLS                                        20180901PLL            SOL2016  S CAMINO SECO                                 TUCSON         AZ85710              N
+BENCOMO THEODORO ARAGON                                     20180824PLL            SOL11200 S SIERRITA MTN        RD  PMB                 TUCSON         AZ85736              N
+MARIA WILLIAMSON                                            20180830PLL            SOL5726  N CAMINO LAGUNA                               TUCSON         AZ85718              N
+DLEX PRO AUDIO LLC                                          20180830PLL            LLC332   W IRVINGTON           RD                      TUCSON         AZ85714              N
+SOUTHWEST LANDSCAPES OF TUCSON LLC                          20180824PLL            LLC9225  W ALBERT              RD                      TUCSON         AZ85735              N
+LOYAL SERVICES ULISES RUIZ                                  20180824PLL            SOL5645  S BONNEY              AVE 7                   TUCSON         AZ85706              N
+CACHETONES CAR WASH & DETAILING AUTO                        20180901PLL            LLC1357  W CALLE RIO NARANJA                           TUCSON         AZ85714              N
+CHIEF BUILDING SERVICES, LLC                                20180801PLL            LLC3219  E CAMELBACK           RD  415                 Phoenix        AZ85018    6029570837N
+ALICE HANNON                                                20180831PLL            SOL8370  S GUPTA               DR                      TUCSON         AZ85747    5203909832N
+TUCSON HOME FURNISHINGS LLC                                 20181016PLL            LLC1760    W GRANT                                     TUCSON         AZ85745    5206221520N
+EL MEXICANO SONORAN HOT DOGS                                20180825PLL            LLC7887  E UHL                     601                 TUCSON         AZ85710    5202713757N
+FRESH ON FOURTH                                             20180827PLL            LLC12013 N STAR CLUSTER        DR                      MARANA         AZ85653    5203899291N
+RACHEL NELSON ART                                           20180801PLL            LLC4601  N VIA ENTRADA             1029                TUCSON         AZ8571876175209557995N
+3 KINGS BARBER STUDIO                                       20180827PLL            LLC1495  N STONE               AVE 303                 TUCSON         AZ85705              N
+PALMERO TREE SERVICE                                        20180825PLL            SOL2386  S SAINT THOMAS AQUINASDR                      TUCSON         AZ85713              N
+J-ACE LLC                                                   20180827PLL            LLC2950  S VERDIN              AVE                     TUCSOON        AZ85713              N
+COLIBRI WELLNESS CENTER LLC                                 20180801PLL            LLC3816  E 5TH                 ST                      TUCSON         AZ85716              N
+PACHECO LANDSCAPING LLC                                     20180827PLL            LLC147   W MICHIGAN            DR  2                   TUCSON         AZ85714              N
+A-1 AMERICAN HOUSECLEANING                                  20180827PLL            SOL4860  E PIMA                ST  119                 TUCSON         AZ85712              N
+IMPACT TRAINING AND FITNESS LLC                             20180901PLL            LLC9800  E ROSEWOOD            ST                      TUCSON         AZ85748              N
+1ST CHOICE AUTO GLASS & TINT                                20180821PLL            LLC1210  S TURQUOISE VISTA         689                 TUCSON         AZ85710    5208768765N
+FA REMODELING                                               20180827PLL            SOL10048 S OLD NOGALES         HY                      TUCSON         AZ85746              N
+MONTOYA LANDSCAPING                                         20180827PLL            SOL5640  E CALLE AURORA                                TUCSON         AZ85711              N
+LGE CORPORATION                                             20180801PLL            CRP740   N 52ND                ST                      PHOENIX        AZ85008    4809664001N
+MILESTONE LOGISTICS LLC                                     20180901PLL            LLC171   E CASTLEFIELD         CI                      TUCSON         AZ85704    5202704021N
+R & T LOCKSMITH SERVICES                                    20180824PLL            SOL1345    KOLB                RD  352                 TUCSON         AZ85710    5204064651N
+RANDALL AUTOMOTIVE LLC                                      20180730PLL            LLC3284  W SHUMAKER            DR                      TUCSON         AZ85741              N
+DIAMOND V TRANSPORT                                         20180828PLL            LLC5700  E VUELTA DE NUESTRO PU                        TUCSON         AZ85756    5203315840N
+ROZET LANDSCAPE DESIGN LLC                                  20180828PLL            LLC505   S COLUMBUS            BL                      TUCSON         AZ85712              N
+ISTVAN VIZNER                                               20180801PLL            SOL0       PO BOX 3089                                 GREENWOOD VILLACO801553089          N
+CHICKADEE'S                                                 20180901PLL            LLC4500  N ORACLE              RD  FC01                TUCSON         AZ85705    5205007943N
+PEACE OF MIND EVENTS                                        20180101PLL            SOL9083  N EAGLESTONE          LOOP                    TUCSON         AZ85742              N
+HANDMADE BY ERIKA PEARSALL                                  20180822PLL            SOL263   N ABREGO              DR                      GREEN VALLEY   AZ85614              N
+BLEU ELECTRIC                                               20180816PLL            SOL419   E NAVAJO              RD  3                   TUCSON         AZ85705              N
+PALETERIA Y NEVERIA LA MICHOACANA LLC                       20171017PLL            LLC3774  S 6TH                 AV                      TUCSON         AZ85713              N
+DRM COMMERCIAL CLEANING BY FAITH LLC                        20180901PLL            LLC1421  N DESERT MALLOW       DR                      TUCSON         AZ85715              N
+2 GIRLS & A FABRIC CO                                       20180828PLL            LLP8356  S OTIS                DR                      TUCSON         AZ85747    5206037903N
+DRAEGER, INC.                                               20180701PLL            CRP3135    QUARRY RD                                   TELFORD        PA18969    2156602112N
+U.S. UNDERWATER SERVICES, LLC                               20180824PLL            LLC0       PO BOX 2168                                 MANSFIELD      TE76063    8174477321N
+PHOENIX COMMERCIAL ELECTRIC,IN                              20180822PLL            CRP8901  N 79TH                AV  101                 PEORIA         AZ85345    6238790112N

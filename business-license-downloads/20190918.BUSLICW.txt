@@ -1,0 +1,62 @@
+SMITHS DETECTION INC                                        20190101PLL            CRP2202    LAKESIDE            BLVD                    EAGLEWOOD      MD21048              N
+TWISTED EASEL                                               20190901PLL            SOL10210 E SPEEDWAY            BLVD79                  TUCSON         AZ85748              N
+TRACING 1000 FSBO                                           20190921PLL            SOL155   E SANTA REBECCA       DR                      GREEN VALLEY   AZ85614              N
+STONE CACTUS WATERFALLS LLC                                 20190101PLL            LLC3301  N 1ST                 AVE                     TUCSON         AZ85719              N
+PILA'S CLEANING SERVICES                                    20190911PLL            SOL15    N BONITA              AV                      TUCSON         AZ85745              N
+MEHER SERVICES LLC                                          20190911PLL            LLC0       PO BOX 44140                                TUCSON         AZ85733              N
+MOLINAS CLEANING LLC                                        20190911PLL            LLC2423  E CAMERON             VIS                     TUCSON         AZ85713              N
+LIFE PATH AND SOUND                                         20190301PLL            LLC1     N 5TH                 AVE 101                 TUCSON         AZ85701              N
+PAUKUNE FAMILY DENTISTRY                                    20190101PLL            LLC2910  N SWAN                RD  107                 TUCSON         AZ85712              N
+QUEEN OF WELLBEING                                          20190911PLL            SOL11129 N RAMS HORN           TRL                     ORO VALLEY     AZ85737              N
+ROMERO BROS REMODELING SPECIALIST CORP                      20190903PLL            CRP6137  S 6TH                 AVE                     TUCSON         AZ857065467          N
+CONCE CLEANING SERVICES                                     20190912PLL            SOL1537  S AVENIDA SIRIO                               TUCSON         AZ85710              N
+CHAMPION INSTALLS INC                                       20190913PLL            CRP9631    ELK GROVE FLORIN    RD                      ELK GROVE      CA95624              N
+BE GLAM BOUTIQUE                                            20191015PLL            SOL1432  E MOSSMAN             RD  37                  TUCSON         AZ857065602          N
+NATALIE G YOUNG                                             20190912PLL            SOL1901  N WILMOT              RD  1318                TUCSON         AZ85712              N
+TRAVEL INN                                                  20190901PLL            LLC1510  S FREEWAY             RD                      TUCSON         AZ857131402          N
+ART WYRKS                                                   20190912PLL            SOL128   N HUFF                AV  3                   TUCSON         AZ85705              N
+LESLIE RIVERA                                               20191001PLL            SOL3663  E BERMUDA             ST  1111                TUCSON         AZ85716              N
+PRESTIGE TUXEDO RENTAL                                      20190913PLL            SOL1721  E MINORKA             ST                      TUCSON         AZ85706              N
+CLIP BARBER SHOP                                            20190913PLL            SOL6107  S 6TH                 AVE                     TUCSON         AZ85706              N
+FIERCE BEAUTY BY FRANCISCA                                  20190913PLL            LLC301   W HERSCHEL H HOBBS    PL                      VAIL           AZ85641              N
+STEEMERZ LLC                                                20190522PLL            LLC5425  E BROADWAY            BLVD159                 TUCSON         AZ85711              N
+KORE KLEANING                                               20190913PLL            SOL4505  W PYRACANTHA          DR                      TUCSON         AZ85741              N
+BIG TEX TRAILERS                                            20190901PLL            CRP950     I-30                                        MT PLEASANT    TX75455              N
+SNUKA ONIAS                                                 20190913PLL            SOL1250  E 10TH                ST  207A                TUCSON         AZ85719              N
+ARIZONA TOTAL CARE, LLC                                     20191101PLL            LLC5441    E 8TH STREET                                TUCSON         AZ85711              N
+AERIAL IMAGERY AND INSPECTIONS LLC                          20190916PLL            LLC6651  E VICTORIA            ST                      TUCSON         AZ85730    5207208282N
+RAISING CANE'S CHICKEN FINGERS                              20190813PLL            LLC6800    BISHOP              RD                      PLANO          TX75024              N
+SPIRIT HALLOWEEN SUPERSTORES LLC                            20190901PLL            LLC6826    BLACK HORSE         PIKE                    EGG HARBOR TOWNNJ08234              N
+PSR WEST COAST BUILDERS INC                                 20190916PLL            CRP3458  W DIABLO              BLVD                    LAFAYETTE      CA94549              N
+FOUR GOOD SMOKE SHOP                                        20190916PLL            SOL4636  S 6TH                 AV                      TUCSON         AZ85714              N
+WHOLESOME LIVING MASSAGE                                    20190916PLL            SOL2821  W DARLEY WOODS        DR                      TUCSON         AZ85742              N
+GLOVER LENOR ANN                                            20190916PLL            SOL335   E 4TH                 ST                      TUCSON         AZ85705              N
+NORTHWEST HEALTHCARE HOME HEALTH                            20190101SVL            LLC0       PO BOX                                      LAFAYETTE      LA70505    5204419914N
+WALKERS CUSTOM PAINTING                                     20190101PLL            SOL6937  E DAVID               DR                      TUCSON         AZ85730              N
+MULTIFORM.CONTRACTORS LLC                                   20190916PLL            LLC3039  N JACKSON             AVE                     TUCSON         AZ85719              N
+SOUTHAM CHARM                                               20190916PLL            PRT10442 E SKY HIGH            DR                      TUCSON         AZ85730              N
+PROLIFIC POOL COMPANY                                       20190916PLL            SOL2126  E POQUITA             VIS                     TUCSON         AZ85713              N
+DN TUS, LLC - IN-FLIGHT PREP KITCHEN                        20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - ARBUCKLES' COFFEE                             20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC -BEYOND BREAD CONCOURSE A                       20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DESERT MAMA CHOCOLATE COMPANY                               20190906PLL            LLC4826  E 1ST                 ST                      TUCSON         AZ85711    9195931973N
+DN TUS, LLC -BEYOND BREAD CONCOURSE B                       20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - BRUEGGER'S                                    20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - BUILT CUSTOM BURGERS                          20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - DUNKIN DONUTS                                 20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - EL CHARRO                                     20190930PLL            LLC250     DELAWARE                                    BUFFALO        NY14202    7168585347N
+DN TUS, LLC - EMPIRE PIZZA                                  20190930PLL            LLC250     DELAWARE            AVE                     BUFFALO        NY14202    7168585347N
+DN TUS, LLC - NOBLE HOPS                                    20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - THE MAVERICK                                  20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - THUNDER CANYON                                20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+DN TUS, LLC - SIR VEZA'S                                    20190930PLL            LLC250     DELAWARE            AV                      BUFFALO        NY14202    7168585347N
+BOOT HILL APOTHECARY, LLC                                   20190916PLL            LLC12928 N TARZANA             DR                      ORO VALLEY     AZ85755    5202567524N
+SALSA BY VERA                                               20190901PLL            SOL2762  W PARTRIDGE           ST                      TUCSON         AZ85746              N
+THE GREEN EAGLE HARD SURFACE RESTORATION LLC                20190930PLL            LLC3815  S ALDON               RD                      TUCSON         AZ85735              N
+SOUTHEAST BODY SHOP                                         20190917PLL            SOL744   E 20TH                ST                      TUCSON         AZ85719              N
+MONSTER SONORAN HOT DOGS LLC                                20190917PLL            LLC7831  S MAALA MECHA VOO?D                           TUCSON         AZ85757              N
+SLABS SMOKE SHOP                                            20191030PLL            LLC8902  E 39TH                ST                      TUCSON         AZ85730              N
+JCAMS ENTERPRISES LLC                                       20190901PLL            LLC3300  N PASEO DE LOS RIOS       3104                TUCSON         AZ85712    7037649584N
+ARBOR TECH TREE SERVICES                                    20190821PLL            LLC1992  W CALLE CAMPANA DE PLA                        TUCSON         AZ85745    5205910791N
+EARDG PHOTONICS, INC.                                       20190506PLL            CRP1430  N 6TH                 AV                      TUCSON         AZ8570566445202504405N
+ICRX, INC.                                                  20190811PLL            CRP1430  N 6                   AV                      TUCSON         AZ8570566445202504405N

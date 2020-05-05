@@ -1,0 +1,72 @@
+GREEN CLEAN FLOORS                                          20161015SVL            SOL5445  N SHANNON             RD  16                  TUCSON         AZ85705              N
+GSW TELECOM LLC                                             20160301PLL059917517911LLC6400  E GRANT               RD  100                 TUCSON         AZ85715              N
+WLS CONSULTING                                              20161012PLL99    999999SOL220   E WETMORE             RD  215                 TUCSON         AZ85705              N
+GOLF LINKS AUTOMOTIVE                                       20161101PLL            LLC6251  S TUCSON              BLVD                    TUCSON         AZ85706              N
+TONYS ELECTRIC                                              20161012PLL99    999999SOL5960  S SPRINGBROOK         DR                      TUCSON         AZ85746    5203892190N
+GLAND SEAL SOLUTIONS                                        20160919PLL17    423840CRP9470  N SAMMY               AVE                     TUCSON         AZ85742              N
+TIMS DYNASTY LLC                                            20161001PLL98    999999LLC3535  E GLENN               ST  1112                TUCSON         AZ85716    5202756634N
+TIMS DYNASTY LLC                                            20161001SVL98    999999LLC3535  E GLENN               ST  1112                TUCSON         AZ85716    5202756634N
+BRIGHT                                                      20161012PLL9998  999999SOL0       PO BOX 42251                                TUCSON         AR85733              N
+TOP 1 CLEANERS                                              20160801SVL9998  999999PRT5515  S FORGEUS             AVE 15102               TUCSON         AZ85706              N
+FLASH CARPET CLEANING                                       20161012SVL            SOL3121  W CALLE ROSALINDA                             TUCSON         AZ85746              N
+TOMMY'S TOBACCO SHOP                                        20161003PLL1799  424940LLC6330  E GOLF LINKS          RD  186                 TUCSON         AZ85730              N
+KK TALBOTT                                                  20160901PLL1799  541921SOL7739  E BROADWAY            BLVD256                 TUCSON         AZ85710              N
+TRANSPARENT MANAGEMENT SOLUTIONS                            20161012PLL            LLC132692  OXMOOR VALLEY       DR                      VAIL           AZ85641              N
+TRANSPARENT MANAGEMENT SOLUTIONS                            20161012SVL            LLC132692  OXMOOR VALLEY       DR                      VAIL           AZ85641              N
+WD TUCSON RE LLC                                            20160928PLL1399  531120LLC4400  N CENTRAL             AVE                     PHOENIX        AZ85012              N
+KIMBALL EQUIPMENT CO                                        20161001PLL1417  532412LLC2839  W CALIFORNIA          AVE                     SALT LAKE CITY UT84704              N
+CLOUDMARK INC                                               20140401PLL1799  511210CRP128     KING                ST  2ND                 SAN FRANCISCO  CA94107              N
+TWINS DETAILING                                             20161013PLL            SOL6200  N ORACLE              RD  220                 TUCSON         AZ85704              N
+TWINS DETAILING                                             20161013SVL            SOL6200  N ORACLE              RD  220                 TUCSON         AZ85704              N
+CIRCULATION CARE SERVICES LLC                               20161014SVL9998  999999LLC2320  E GRANT               RD                      TUCSON         AZ85719              N
+CASTAWAY OUTDOOR GEAR                                       20160401PLL1799  423910SOL7035  E STELLA              RD                      TUCSON         AZ85730              N
+DESERT LANDSCAPING AND HAULING SERVICES                     20161010SVL            LLC7145  N POMONA              RD                      TUCSON         AZ85704              N
+OWL'S CLUB                                                  20161007PLL1199  722410LLC236   S SCOTT               AVE                     TUCSON         AZ85701              N
+NIKITA MARIE PHOTOGRAPHY                                    20161001PLL17    541921SOL2300  W RAPALLO             WAY                     TUCSON         AZ85741              N
+GHD INC                                                     20160930SVL            CRP175     TECHNOLOGY          DR  200                 IRVINE         CA92618              N
+LILY ONE MARKETING GROUP LLC                                20161013PLL1799  454111LLC2930  N SWAN                RD                      TUCSON         AZ85712              N
+SMALL BATCH LLC                                             20161017PLL1799  454390LLC424   S STAR                AVE B                   TUCSON         AZ85719              N
+PERFECT CLEANING SERVICES                                   20160101SVL9998  561720LLC246   E HADLEY              ST                      TUSCON         AZ85705              N
+MADARAS GALLERY                                             20160930PLL1799  453920CRP3035  N SWAN                RD                      TUCSON         AZ85712              N
+REV ROY PRO SHOP                                            20160901PLL1799  451110SOL4724  S FENWICK             DR                      TUCSON         AZ85730              N
+EDIBLE ARRANGEMENTS                                         20161001PLL1799  445299LLC0       PO BOX 37006                                TUCSON         AZ85740              N
+JL'S CUSTOM DETAILING                                       20161014SVL9998  999999SOL3730  N KEELING             LN                      WILLCOX        AZ85643              N
+AIR TIME MECHANICAL                                         20160101PLL            SOL2407  E VICTORY             RD                      NAMPA          ID53687              N
+COGNOSYS INC                                                20161101PLL            CRP1620  N WILMOT              RD  M103                TUCSON         AZ85712              N
+HAYES SOFTWARE SYSTEMS                                      20160615PLL1799  511210CRP12007   RESEARCH            BLVD103                 AUSTIN         TX78759              N
+SPENCER STUDIO                                              20161003PLL1799  442110SOL1642  S RESEARCH            LOOP                    TUCSON         AZ85710              N
+TUCSON RESTORATIONS                                         20160823PLL1799  811490LLC1508  W CANYON SHADOWS      LN                      TUCSON         AZ85737              N
+HOURLY CLEANERS                                             20161015SVL9998  812320LLC2425  N TUCSON              BL                      TUCSON         AZ85716              N
+TUCKER GROUP                                                20161012PLL99    236118LLC1917  N CLOVERLAND          AVE                     TUCSON         AZ85712              N
+BLAZE PIZZA                                                 20161130PLL            LLC2432  W PEORIA              AVE 1114                PHOENIX        AZ85029              N
+BLACK HILL MASSAGE THERAPY                                  20161101SVL            SOL5608  E 1ST                 ST                      TUCSON         AZ85711              N
+THE COMPLETE CANINE                                         20160116PLL99    812910LLC5557  W CRIMSON BLUFF       DR                      MARANA         AZ85658              N
+THE COMPLETE CANINE                                         20160116SVL99    812910LLC5557  W CRIMSON BLUFF       DR                      MARANA         AZ85658              N
+APWS LLC                                                    20160219PLL99    531110LLC1427  E WATER               ST                      TUCSON         AZ85719              N
+APWS LLC                                                    20160219SVL99    531110LLC1427  E WATER               ST                      TUCSON         AZ85719              N
+VIC HOLLINS ART                                             20161015PLL1799  454390SOL750   E MABEL               ST                      TUCSON         AZ85719              N
+ASHBEAUX AND CO                                             20161017PLL1799  812112SOL1600  N WILMOT              RD  235                 TUCSON         AZ85712              N
+BK QUALITY WORKS LLC                                        20161017SVL            LLC12470 W MILE WIDE           RD                      TUCSON         AZ85743    5208615359N
+GARYS KNIFES                                                20161017PLL1799  423710SOL2032  S CAMINO SECO                                 TUCSON         AZ85710              N
+VAGABOND THE ARTIST                                         20160920PLL1799  711510SOL8111  E MALVERN             ST                      TUCSON         AZ85710              N
+MAMMOTH ENTERPRISES                                         20161017PLL17    423450SOL11444 E OLD SPANISH         TR                      TUCSON         AZ85730              N
+LYDIA BYCZEK                                                20161101PLL            SOL6263    WEAVER              RD                      CONNEAUT       OH44030              N
+BD MANAGEMENT                                               20161017PLL            PRT115   W LIMBERLOST          DR  6205                TUCSON         AZ85705              N
+BD MANAGEMENT                                               20161017PLL            PRT115   W LIMBERLOST          DR  6205                TUCSON         AZ85705              N
+E & J CUSTOMS                                               20161020PLL            SOL4757  E 1ST                 ST                      TUCSON         AZ85711    5202566635N
+SASOL CHEMICALS USA                                         20131001PLL1799  325120LLC12120   WICKCHESTER         LN                      HOUSTON        TX77079              N
+TACOS DELICIA                                               20161017PLL1799  722330SOL5634  E 24TH                ST                      TUCSON         AZ85711              N
+FORCE COLLECTABLES                                          20161001PLL17    454390SOL4705  W GLOBEBERRY          ST                      TUCSON         AZ85741              N
+BLOSSOMING LOTUS HEALING ARTS                               20161017SVL9998  812199SOL5184  N WINDRIVER           PL                      TUCSON         AZ85750              N
+ANIMAL ATTRACTION PET SALON                                 20161001PLL            SOL6644  E TANQUE VERDE        RD  105                 TUCSON         AZ857121504          N
+SOULTREKS TRAVEL                                            20161015SVL9998  999999SOL2701  E LINDEN              ST                      TUCSON         AZ85716              N
+LT DESIGNS                                                  20161001PLL17    453220SOL11801 W RANCHITO VERDE                              TUCSON         AZ85743              N
+HAPPY RELAX FOOT MASSAGE                                    20161101SVL            SOL4193  E WADING POND         DR                      TUCSON         AZ85712              N
+ZAIN RESOURCES LLC                                          20161018PLL9899  999999LLC6901  E CHAUNCEY            LN  1113                PHOENIX        AZ85054              N
+TRIPLE MP AUTOMOTIVE SERVICE                                20161018PLL1799  811111SOL4504  E 20TH                ST                      TUCSON         AZ85711              N
+ON THE LEVEL HOME IMPROV AND REMODEL LLC                    20161018PLL            LLC1096  W SEA FAN             ST                      TUCSON         AZ85704              N
+P&J PAINTING                                                20161018PLL9998  999999SOL3411  N GERONIMO            AV                      TUCSON         AZ85705              N
+ZOLLMAN ROSALIE DIANE                                       20161001SVL9998  541219SOL7266  E SYLVANE             DR                      TUCSON         AZ857105527          N
+FRY'S #83                                                   20161202PLL            CRP0       PO BOX 305103                               NASHVILLE      TN37230    6152329557N
+MALANGA LAUREN LILIAS                                       20161101PLL            SOL48    N WESTMORELAND        AVE                     TUCSON         AZ85745              N
+THREADING BY BELLA                                          20161018PLL            PRT101   N JESSICA             AV  278                 TUCSON         AZ85170    5204444930N

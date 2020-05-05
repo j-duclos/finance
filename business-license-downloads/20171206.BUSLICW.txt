@@ -1,0 +1,116 @@
+ARG LANDSCAPING                                             20171129PLL            SOL5233  S NEWCASTLE           CT                      TUCSON         AZ85746              N
+ARG LANDSCAPING                                             20171129PLL            SOL5233  S NEWCASTLE           CT                      TUCSON         AZ85746              N
+D & K CLEANING                                              20171201PLL            PRT3022  W COUNTRY HILL        DR                      TUCSON         AZ85742              N
+D & K CLEANING                                              20171201PLL            PRT3022  W COUNTRY HILL        DR                      TUCSON         AZ85742              N
+KITERRA EARLES                                              20171129PLL            SOL269   S KOLB                ROADF                   TUCSON         AZ85710              N
+QUICK TRIP PAWN                                             20171101PLL            LLC1110  W PRINCE              RD                      TUCSON         AZ85705              N
+QUICK TRIP PAWN                                             20171101PLL            LLC1110  W PRINCE              RD                      TUCSON         AZ85705              N
+380 HOLDINGS LLC                                            20171001PLL            LLC2440  S 34TH                PL                      TUCSON         AZ857134246          N
+380 HOLDINGS LLC                                            20171001PLL            LLC2440  S 34TH                PL                      TUCSON         AZ857134246          N
+RETAIL SERVICES WIS                                         20170609PLL            CRP9265    SKY PARK            CT  100                 SAN DIEGO      CA92123              N
+RETAIL SERVICES WIS                                         20170609PLL            CRP9265    SKY PARK            CT  100                 SAN DIEGO      CA92123              N
+PUENTE NVA PARTNERS                                         20171001PLL            LLC2440  S 34TH                PL                      TUCSON         AZ85713              N
+PUENTE NVA PARTNERS                                         20171001PLL            LLC2440  S 34TH                PL                      TUCSON         AZ85713              N
+TOLAN JOANNA K                                              20171129PLL            PRT11359 W STONE HEARTH        ST                      TUCSON         AZ85658              N
+MJ LANDSCAPING                                              20171201PLL            PRT7114  W HIDDEN RIVER        WAY                     TUCSON         AZ85757              N
+MJ LANDSCAPING                                              20171201PLL            PRT7114  W HIDDEN RIVER        WAY                     TUCSON         AZ85757              N
+NATIONWIDE VISION #88                                       20171222PLL            CRP0       PO BOX 187                                  GLENDORA       NJ08012              N
+NATIONWIDE VISION #88                                       20171222PLL            CRP0       PO BOX 187                                  GLENDORA       NJ08012              N
+WRAPID SIGNS                                                20171129PLL            SOL1505  W SAINT MARYS         RD                      TUCSON         AZ857453191          N
+WRAPID SIGNS                                                20171129PLL            SOL1505  W SAINT MARYS         RD                      TUCSON         AZ857453191          N
+RIMONIM TWO                                                 20170901PLL            LLC1977  N CALLE DEL SUERTE                            TUCSON         AZ85745              N
+ROMANCE GENESIS LLC                                         20171201PLL            LLC13135 N BOOMING             DR                      ORO VALLEY     AZ85755              N
+ROMANCE GENESIS LLC                                         20171201PLL            LLC13135 N BOOMING             DR                      ORO VALLEY     AZ85755              N
+SIMONMED IMAGING CATALINA                                   20171113PLL            CRP6900  E CAMELBACK           RD  700                 SCOTTSDALE     AZ85251              N
+SIMONMED IMAGING CATALINA                                   20171113PLL            CRP6900  E CAMELBACK           RD  700                 SCOTTSDALE     AZ85251              N
+DISCOUNT FEED INC                                           20171110PLL            CRP2002  W GREENWAY            RD                      PHOENIX        AZ85023    6002979237N
+DISCOUNT FEED INC                                           20171110PLL            CRP2002  W GREENWAY            RD                      PHOENIX        AZ85023    6002979237N
+KELLY MARKLEY                                               20171001PLL            SOL6871  E MARY                DR                      TUCSON         AZ85730              N
+KELLY MARKLEY                                               20171001PLL            SOL6871  E MARY                DR                      TUCSON         AZ85730              N
+BODY BALANCE REFLEXOLOGY                                    20171130PLL            SOL1901  N WILMOT              RD  2237                TUCSON         AZ85712              N
+BODY BALANCE REFLEXOLOGY                                    20171130PLL            SOL1901  N WILMOT              RD  2237                TUCSON         AZ85712              N
+NIEBLAS AUTO SHOP                                           20171130PLL            SOL401   W AJO                 WAY                     TUCSON         AZ85713              N
+NIEBLAS AUTO SHOP                                           20171130PLL            SOL401   W AJO                 WAY                     TUCSON         AZ85713              N
+LUZ M CORNELL PHD LICENSED PSYCHOLGIST                      20170801PLL            LLC2628  W NATURE POINT        CT                      TUCSON         AZ85742              N
+LUZ M CORNELL PHD LICENSED PSYCHOLGIST                      20170801PLL            LLC2628  W NATURE POINT        CT                      TUCSON         AZ85742              N
+CHATIME HOUSE                                               20171101PLL            LLC1800  E FORT LOWELL         RD  140                 TUCSON         AZ85719    5203323337N
+CHATIME HOUSE                                               20171101PLL            LLC1800  E FORT LOWELL         RD  140                 TUCSON         AZ85719    5203323337N
+UNIQUE PR REMODELING LLC                                    20171130PLL            LLC6365  E CALLE CASTOR                                TUCSON         AZ85710              N
+UNIQUE PR REMODELING LLC                                    20171130PLL            LLC6365  E CALLE CASTOR                                TUCSON         AZ85710              N
+PREMIER REMODELING LLC                                      20171130PLL            LLC4418  S KHE SANH            LN                      TUCSON         AZ85735              N
+PREMIER REMODELING LLC                                      20171130PLL            LLC4418  S KHE SANH            LN                      TUCSON         AZ85735              N
+TRACEY'S THIRTY ONE PLACE                                   20171130PLL            SOL4321  S EVERGREEN           AV                      TUCSON         AZ85730              N
+TRACEY'S THIRTY ONE PLACE                                   20171130PLL            SOL4321  S EVERGREEN           AV                      TUCSON         AZ85730              N
+HYDRAULIC PRO'S                                             20171130PLL            SOL1201  E BLACKLIDGE          DR                      TUCSON         AZ85719              N
+HYDRAULIC PRO'S                                             20171130PLL            SOL1201  E BLACKLIDGE          DR                      TUCSON         AZ85719              N
+TOUCH OF THE SUN MASSAGE                                    20171130PLL            SOL8957  E WRIGHT SCHOOL       LOOP                    TUCSON         AZ85715              N
+TOUCH OF THE SUN MASSAGE                                    20171130PLL            SOL8957  E WRIGHT SCHOOL       LOOP                    TUCSON         AZ85715              N
+VOLVO CARS OF TUCSON                                        20180101PLL            CRP641     ORANGE              DR                      VACAVILLE      CA95687              N
+ERIN POWERS HAIRDRESSING                                    20171101PLL            SOL5269  W BOBWHITE            WAY                     TUCSON         AZ85742              N
+ERIN POWERS HAIRDRESSING                                    20171101PLL            SOL5269  W BOBWHITE            WAY                     TUCSON         AZ85742              N
+POSTMATES INC                                               20171002PLL            CRP425     MARKET              ST  8                   SAN FRANCISCO  CA94105              N
+BETTER THEN NEW                                             20171130PLL            SOL6441  N CALLE DE ESTEVAN                            TUCSON         AZ85718              N
+BETTER THEN NEW                                             20171130PLL            SOL6441  N CALLE DE ESTEVAN                            TUCSON         AZ85718              N
+LESPACE DE SHIRELY                                          20170101PLL            TRT5751  S PALOMINO            RD                      TUCSON         AZ85746              N
+LESPACE DE SHIRELY                                          20170101PLL            TRT5751  S PALOMINO            RD                      TUCSON         AZ85746              N
+ALEX'S CLEANING SERVICE                                     20171201PLL            SOL5931  E FRANKLIN TALE       DR                      TUCSON         AZ85756              N
+ALEX'S CLEANING SERVICE                                     20171201PLL            SOL5931  E FRANKLIN TALE       DR                      TUCSON         AZ85756              N
+R&G CLEANING SERCIVES                                       20171201PLL            SOL11    E ORANGE GROVE        RD  113                 TUCSON         AZ85704              N
+R&G CLEANING SERCIVES                                       20171201PLL            SOL11    E ORANGE GROVE        RD  113                 TUCSON         AZ85704              N
+DOS AMIGOS BUTCHER SHOP                                     20171201PLL            LLC1439  S 4TH                 AVE                     TUCSON         AZ85713              N
+DOS AMIGOS BUTCHER SHOP                                     20171201PLL            LLC1439  S 4TH                 AVE                     TUCSON         AZ85713              N
+CLS ROOFING AND GENERAL CONTRACTING                         20171127PLL            PRT3849  E BROADWAY            BLVD279                 TUCSON         AZ85714              N
+CLS ROOFING AND GENERAL CONTRACTING                         20171127PLL            PRT3849  E BROADWAY            BLVD279                 TUCSON         AZ85714              N
+DELGADO PHONE REPAIR                                        20171201PLL            SOL504   E 9TH                 ST  117B                TUCSON         AZ85705              N
+DELGADO PHONE REPAIR                                        20171201PLL            SOL504   E 9TH                 ST  117B                TUCSON         AZ85705              N
+GIBRALTAR COMMUNITIES                                       20171201PLL            LLC4065  N ROMERO              RD                      TUCSON         AZ85705              N
+GIBRALTAR COMMUNITIES                                       20171201PLL            LLC4065  N ROMERO              RD                      TUCSON         AZ85705              N
+SKYLINE CM PORTFOLIO                                        20171115PLL            LLC5851    LEGACY              CIR 400                 PLANO          TX75024              N
+SKYLINE CM PORTFOLIO                                        20171115PLL            LLC5851    LEGACY              CIR 400                 PLANO          TX75024              N
+P&E MEDIA                                                   20171201PLL            PRT325   W 2ND                 ST                      TUCSON         AZ85705              N
+P&E MEDIA                                                   20171201PLL            PRT325   W 2ND                 ST                      TUCSON         AZ85705              N
+ASIAN SOFRITO                                               20180207PLL            LLC405   E PRINCE              RD  904                 TUCSON         AZ85705              N
+YELLOW SAGE LANDSCAPE & DESIGN LLC                          20180101PLL            LLC6958  S BLUEEYES            DR                      TUCSON         AZ85756              N
+SISTERS SEW PRECIOUS LLC                                    20171201PLL            LLC9925  N CROOK               LN                      TUCSON         AZ85742              N
+SISTERS SEW PRECIOUS LLC                                    20171201PLL            LLC9925  N CROOK               LN                      TUCSON         AZ85742              N
+RED PERSIMMON NAILS AND SPA                                 20180101PLL            SOL4500  N ORACLE              RD  202                 TUCSON         AZ85705              N
+CODE BLUE PLUMBING                                          20160127PLL15    238220LLC0       PO BOX 37022                                TUCSON         AZ85740              N
+CODE BLUE PLUMBING                                          20160127PLL15    238220LLC0       PO BOX 37022                                TUCSON         AZ85740              N
+CIRCLE K STORE 843                                          20171110PLL            CRP0       PO BOX 52085                                PHOENIX        AZ850722085          N
+CIRCLE K STORE 843                                          20171110PLL            CRP0       PO BOX 52085                                PHOENIX        AZ850722085          N
+RIVER PALLETS                                               20180101PLL            SOL5127  S LAVADER FIELDS      LN                      TUCSON         AZ85746    5202708364N
+NICOLACE PLUMBING & HANDYMAN SERVICES                       20171204PLL            SOL9515  E SURPRISE CANYON     CT                      TUCSON         AZ85748              N
+NICOLACE PLUMBING & HANDYMAN SERVICES                       20171204PLL            SOL9515  E SURPRISE CANYON     CT                      TUCSON         AZ85748              N
+FUN JEWELRY BY HASSELTINE                                   20171201PLL            SOL2625  W DESERT BROOK        CT                      TUCSON         AZ85742              N
+FUN JEWELRY BY HASSELTINE                                   20171201PLL            SOL2625  W DESERT BROOK        CT                      TUCSON         AZ85742              N
+GRANT RD AUTO REPAIR SERVICE LLC                            20171204PLL            LLC818   W GRANT               RD                      TUCSON         AZ85705              N
+GRANT RD AUTO REPAIR SERVICE LLC                            20171204PLL            LLC818   W GRANT               RD                      TUCSON         AZ85705              N
+ARBOR GROOVE                                                20171211PLL            SOL2779  W CAMINO LLANO                                TUCSON         AZ857429252          N
+ARBOR GROOVE                                                20171211PLL            SOL2779  W CAMINO LLANO                                TUCSON         AZ857429252          N
+SENSITIVE PLANET                                            20171201PLL            CRP825     WILSHIRE            BLVD333                 SANTA MONICA   CA90401              N
+WILDCAT LAUNDRY AZ                                          20171123PLL            LLC7621  E SPEEDWAY            BL                      TUCSON         AZ85710              N
+WILDCAT LAUNDRY AZ                                          20171123PLL            LLC7621  E SPEEDWAY            BL                      TUCSON         AZ85710              N
+ALPA CONSTRUCTION INC                                       20180201PLL            CRP6601  S CENTRAL             AVE                     BEDFORD PARK   IL60638              N
+PHANTOM FIREWORKS                                           20171220PLL            LLC0       PO BOX 160421                               CLEARFIELD     UT84016              N
+PHANTOM FIREWORKS                                           20171220PLL            LLC0       PO BOX 160421                               CLEARFIELD     UT84016              N
+PHANTOM FIREWORKS                                           20171220PLL            LLC0       PO BOX 160421                               CLEARFIELD     UT84016              N
+D'ANGELO BRENDA J                                           20171205PLL            SOL9189  N CEREMONY            PL                      TUCSON         AZ85743              N
+TRIMILLENNIUM CORPORATION                                   20170101PLL            CRP0       PO BOX 18077                                TUCSON         AZ857318077          N
+TRIMILLENNIUM CORPORATION                                   20170101PLL            CRP0       PO BOX 18077                                TUCSON         AZ857318077          N
+ENGAGE PENGUIN STUDIOS                                      20180101PLL            LLC1414  N MCKINLEY            AVE                     TUCSON         AZ85712              N
+WINNING LEADERS                                             20171205PLL            SOL2500  N LIGHTNING A         DR                      TUCSON         AZ857499788          N
+WINNING LEADERS                                             20171205PLL            SOL2500  N LIGHTNING A         DR                      TUCSON         AZ857499788          N
+BRAKEMAX #15                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #15                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #12                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #12                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #11                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #11                                                20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #8                                                 20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #8                                                 20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #6                                                 20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+BRAKEMAX #6                                                 20171201PLL            CRP2910  N SWAN                RD  110                 TUCSON         AZ857126011          N
+LANTEL COMMUNICATION INC.                                   20171101PLL            CRP13740 E WILLIAMS FIELD      RD                      GLBERT         AZ85295    4802339949N
+I HEART DOGGIE DOG SHOP LLC                                 20171205PLL            LLC9600  E BURNETT ST                                  TUCSON         AZ85730    5203587616N
+SKYTEK ROOFING, LLC                                         20180101PLL            LLC2755  E GANLEY ROAD             101                 TUCSON         AZ85706    5205710344N
+RC FOOD PARLOR LLC                                          20171120PLL            LLC7352  S CAMINO TETAVIECTI                           TUCSON         AZ8575794965202561513N

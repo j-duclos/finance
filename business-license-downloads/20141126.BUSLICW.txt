@@ -1,0 +1,71 @@
+FLAG POLE CABINET INC                                       20150107PLL            CRP747   W LIVERNOIS           WAY                     CHINO VALLEY   AZ86323              N
+SENSINTEL INC                                               20141001PLL1799  336411CRP3292  E HEMISPHERE          LOOP                    TUCSON         AZ85706              N
+SENSINTEL INC                                               20141001PLL1799  336411CRP3292  E HEMISPHERE          LOOP                    TUCSON         AZ85706              N
+99 CENT PLUS                                                20141201PLL            SOL4460  E PIMA                ST                      TUCSON         AZ85712              N
+99 CENT PLUS                                                20141201PLL            SOL4460  E PIMA                ST                      TUCSON         AZ85712              N
+ELENA'S                                                     20141119SVL9998  561720SOL525   S BRIGHTON            LN                      TUCSON         AZ85711              N
+ELENA'S                                                     20141119SVL9998  561720SOL525   S BRIGHTON            LN                      TUCSON         AZ85711              N
+ALWAYS POPPIN' KETTLE CORN                                  20141119PLL17    722330PRT5375  S BROWNING            LN                      TUCSON         AZ85757              N
+ALWAYS POPPIN' KETTLE CORN                                  20141119PLL17    722330PRT5375  S BROWNING            LN                      TUCSON         AZ85757              N
+TUCSON TAPE AND SUPPLY                                      20141001PLL1799  322222SOL16078 N COLUMBUS            BLVD                    TUCSON         AZ85739    5207959227N
+TUCSON TAPE AND SUPPLY                                      20141001PLL1799  322222SOL16078 N COLUMBUS            BLVD                    TUCSON         AZ85739    5207959227N
+FORESCOUT TECHNOLOGIES, INC                                 20140901PLL17    541511CRP900   E EAST HAMILTON       AV  300                 Campbell       CA95008    4088414224N
+FORESCOUT TECHNOLOGIES, INC                                 20140901PLL17    541511CRP900   E EAST HAMILTON       AV  300                 Campbell       CA95008    4088414224N
+FRAMEWORK FITNESS TRAINING LLC                              20141201SVL            LLC100     ELSTER              DR                      TUCSON         AZ85710              N
+ELYS                                                        20141123SVL            SOL312   W 36TH                ST                      TUCSON         AZ85713    5202351230N
+ROBERT MARBERRY                                             20141007PLL            SOL827     BATTERY             LN                      NASHVILLE      TN37220              N
+ROBERT MARBERRY                                             20141007PLL            SOL827     BATTERY             LN                      NASHVILLE      TN37220              N
+MEG HAYDEN DESIGN                                           20141124PLL            SOL10745 E PLACITA MERENGUE                            TUCSON         AZ85730    5206633444N
+MY ALASKA TREASURE                                          20141120PLL            SOL3849  E BROADWAY            BL  147                 TUCSON         AZ85716    5202086872N
+PRIME LENDING, A PLAINS CAPITAL COMPANY                     20141101SVL9998  522292CRP18111   PRESTON             RD  900                 DALLAS         TX75252              N
+PRIME LENDING, A PLAINS CAPITAL COMPANY                     20141101SVL9998  522292CRP18111   PRESTON             RD  900                 DALLAS         TX75252              N
+RUDY'S YARD CLEANING                                        20141120SVL9998  561730SOL2713  W SILVER              ST  A                   TUCSON         AZ85716              N
+RUDY'S YARD CLEANING                                        20141120SVL9998  561730SOL2713  W SILVER              ST  A                   TUCSON         AZ85716              N
+ILORIS CLOTHING STORE                                       20141201PLL            SOL4124  S 6TH                 AVE 108                 TUCSON         AZ85714              N
+TUCSON PRO LOCKSMITH LLC                                    20140101SVL9998  561622LLC5819  E 33RD                ST                      TUCSON         AZ85711              N
+TUCSON PRO LOCKSMITH LLC                                    20140101SVL9998  561622LLC5819  E 33RD                ST                      TUCSON         AZ85711              N
+ZONA DAWGZ                                                  20141120PLL1199  722330SOL8332  E PENA BLANCA         DR                      TUCSON         AZ85730              N
+MLT SONORAN GRILL LLC                                       20141120PLL1199  722330LLC4711  S WARREN              AVE                     TUCSON         AZ85714              N
+MLT SONORAN GRILL LLC                                       20141120PLL1199  722330LLC4711  S WARREN              AVE                     TUCSON         AZ85714              N
+RAYMOND IGNACIO BELTRAN                                     20141120PLL159917236118SOL227   S HERBERT             AVE                     TUCSON         AZ85701              N
+D&G NATURALS LLC                                            20141015PLL            LLC486   E CEDARVALE           ROAD                    TUCSON         AZ85704    5208738269N
+SHIRT PRINTING AND EMBROIDERY                               20141119SVL            SOL12960 S HOUGHTON            RD                      TUCSON         AZ85747    5203900240N
+B PLUS B4 TUCSON SPECTRUM LLC                               20141001PLL            LLC5431  N CALLE ESTRELLA                              TUCSON         AZ85749              N
+EVERGREEN SOFTUB, INC                                       20141021PLL            CRP3227    CURTIS LANE                                 MANHATTAN      MT59741    4065790888N
+ROAD RUNNING WOOD FIRED PIZZA,                              20141120PLL            LLC12394 NWNORTH CAMINO DEL PLA                        Tucson         AZ8575520635207300154N
+ARIZONA SPECIALTY HOMECARE                                  20141008SVL            SOL333   W FT LOWELL           ROAD212                 TUCSON         AZ85704    5202303980N
+MTI CONSTRUCTION                                            20141001PLL            CRP546     WALD                                        IRVINE         CA92618    9493874477N
+ABSOLUTE HAIR & NAIL SUPPLIES                               20141101PLL            SOL1688  W PARKWOOD            LN                      TUCSON         AZ85746    5204880988N
+WINDROSE CREATIONS                                          20141121PLL            SOL4826    SOUTH WINDROSE DR                           TUCSON         AZ857304804          N
+PERUCH INVESTMENTS LLC                                      20140101PLL1599  236220LLC13201 N 35TH                AVE B3                  PHOENIX        AZ85029              N
+PERUCH INVESTMENTS LLC                                      20140101PLL1599  236220LLC13201 N 35TH                AVE B3                  PHOENIX        AZ85029              N
+MIKE'S HOMEMADE JERKY                                       20141121PLL1799  454390PRT1101  N ARBOR               CIR                     TUCSON         AZ85715              N
+2626 INVESTMENTS LLC                                        20150101PLL            LLC2620  E 22ND                ST  2620-2628           TUCSON         AZ85713              N
+THE CANINE CLOSET                                           20141121PLL17    454390LLC6170  W INA                 RD                      TUCSON         AZ85743              N
+ARIZONA PLUMBING SPECIALISTS                                20141001PLL            LLC111   E 1ST                 ST                      EAGAR          AZ85925    9282455187N
+EPOXY COATING SPECIALISTS, INC                              20141001PLL            CRP3940  S FERREE              ST                      KANSAS CITY    KS66103    9133624141N
+ARIZONA DEFENSE SUPPLY                                      20141121PLL            LLC4217  E PIMA                ST                      TUCSON         AZ85712    5203697047N
+THE STILLHOUSE BAR & GRILL LLC                              20141101PLL            LLC9155  E TANQUE VERDE        RD  177                 TUCSON         AZ85749    5207492299N
+THE STILLHOUSE BAR & GRILL LLC                              20141101PLL            LLC9155  E TANQUE VERDE        RD  177                 TUCSON         AZ85749    5207492299N
+BAKER FAMILY FOOD SPECIALTIES                               20141101SVL            LLC1615    N WILMOT                                    TUCSON         AZ85711    5202909000N
+T AND T ENGINEERING, LLC                                    20140101SVL            LLC5980    EAST VERDE PLACE                            Tucson         AZ85750    5209079797N
+JUST GLASS LLC                                              20141130PLL            LLC4729  E SUNRISE             DR  402                 TUCSON         AZ85718    5209062000N
+AZTEC FLOORING LLC                                          20141201PLL            LLC3990    EVANS                                       TUCSON         AZ85714    5208818838N
+BALTIC AVENUE HOLDINGS LLC                                  20140201PLL1399  531120LLC2482  E RIVER               RD                      TUCSON         AZ85718              N
+BALTIC AVENUE HOLDINGS LLC                                  20140201PLL1399  531120LLC2482  E RIVER               RD                      TUCSON         AZ85718              N
+MD CONSTRUCTION, INC.                                       20141124PLL15    236220CRP1928  E HIGHLAND            AVE F104-617            PHOENIX        AZ85016              N
+MD CONSTRUCTION, INC.                                       20141124PLL15    236220CRP1928  E HIGHLAND            AVE F104-617            PHOENIX        AZ85016              N
+TJL DESIGNS, LC                                             20141103PLL15    541330LLC4400  N PLCIATA DE LAS COLIN                        TUCSON         AZ857459734          N
+TJL DESIGNS, LC                                             20141103PLL15    541330LLC4400  N PLCIATA DE LAS COLIN                        TUCSON         AZ857459734          N
+3M HANDYMAN SERVICE LLC                                     20141115PLL1599  236118LLC1806  N SILVER MOUNTAIN     PL                      TUCSON         AZ85745              N
+3M HANDYMAN SERVICE LLC                                     20141115PLL1599  236118LLC1806  N SILVER MOUNTAIN     PL                      TUCSON         AZ85745              N
+TUCSON WINDOW CLEANING                                      20141124SVL9998  561720SOL5465  E BELLEVUE            ST                      TUCSON         AZ85712              N
+SG EQUIPMENT FINANCE USA CORP                               20141001PLL14    522220CRP630   N CENTRAL             EXPY#A                  PLANO          TX75074              N
+SG EQUIPMENT FINANCE USA CORP                               20141001PLL14    522220CRP630   N CENTRAL             EXPY#A                  PLANO          TX75074              N
+ARTISTIC ROOFING SYSTEMS LLC                                20140901PLL15    238160LLC4104  E COOPER              ST  A                   SIERRA VISTA   AZ85650              N
+ARTISTIC ROOFING SYSTEMS LLC                                20140901PLL15    238160LLC4104  E COOPER              ST  A                   SIERRA VISTA   AZ85650              N
+SHAPESOFGLASS                                               20141204PLL            SOL4601  E SKYLINE DR          DR  507                 TUCSON         AZ85718    5205486837N
+ECO360 SOLUTIONS, INC                                       20141124PLL            CRP20118 N 67TH STE 300 418    AV  300                 GLENDALE       AZ85308    4806947214N
+TUMERICO LLC                                                20141201PLL            LLC1206  N HOWARD              BLVD                    Tucson         AZ85716    5202702055N
+EVERGREEN MORTUARY                                          20140701PLL            LLC1900    SAINT JAMES PLACE       300                 HOUSTON        TX77056    8323082750N
+EVERGREEN CEMETERY                                          20140701PLL            LLC1900    SAINT JAMES PLACE       300                 HOUSTON        TX77056    8323082750N

@@ -1,0 +1,45 @@
+CLARK TRANSPORTATION SOLUTIONS                              20190101PLL            CRP7662  E GRAY                RD  101                 SCOTTSDALE     AZ85260              N
+LEVELS AUTO SALES LLC                                       20181201PLL            LLC1500  N ORACLE              RD                      TUCSON         AZ85705              N
+HOXIE HOUSE AIRBNB                                          20190721PLL            SOL10535 E MARCHETTI           LP                      TUCSON         AZ85747              N
+DIVINE HEALING                                              20180508PLL            LLC9665  N THORNYDALE          RD                      TUCSON         AZ85742              N
+AJ MOBILITY LLC                                             20190724PLL            SOL4965  E 29TH                ST                      TUCSON         AZ85711              N
+GOOD CLEAN LIVING                                           20190724PLL            SAZ3985  N STONE               AV  415                 TUCSON         AZ85705              N
+TREE TOPPERS                                                20190722PLL            LLC1143  N WINSTEL             BL                      TUCSON         AZ85716              N
+DBD 6142 LLC                                                20190708PLL            LLC1920  W LAS LOMITAS         RD                      TUCSON         AZ85704              N
+PAUSE FOR CHANGE LLC                                        20190725PLL            LLC0       POBOX 40762                                 TUCSON         AZ85719              N
+TETRACHROMATIC WOLRD ART                                    20190725PLL            SOL7668  S TRUMPET VINE        AV                      TUCSON         AZ85747              N
+DOZRVIZION PRODUCTIONS                                      20190722PLL            SOL5263  S 9TH                 AVE                     TUCSON         AZ85706              N
+ROSEMARY MCCOOL                                             20190201PLL            SOL7601  N CALLE SIN ENVIDIA       13                  TUCSON         AZ85718              N
+IMAGE WORKS DISPLAY & MARKETING GROUP INC                   20150112PLL            CRP415     WACHOVIA            ST                      WINSTON SALEM  NC27101              N
+MONSOON VERMUT LLC                                          20190801PLL            LLC6940  N BOBCAT              LN                      TUCSON         AZ85743              N
+GTECH                                                       20190725PLL            SOL12101 W KRISTINA            LN                      TUCSON         AZ85735              N
+GORILLA SIP LLC                                             20190725PLL            LLC10079 E ESCALANTE           RD                      TUCSON         AZ85730              N
+RENEW360 THE AESTHETICS CENTER OF ARIZONA PLLC              20190901PLL            LLC2732  N ALVERNON            WAY                     TUCSON         AZ85712              N
+ROEBROCUP                                                   20190725PLL            SOL3405  E SENECA              ST                      TUCSON         AZ85716              N
+ARMENTAS FINITOS Y MAS                                      20190726PLL            SOL4017  E HOLLAWAY            ST                      TUCSON         AZ85706              N
+LO INSTALLATION LOGISTICS                                   20190725PLL            SOL9095  E TANQUE VERDE        RD  181                 TUCSON         AZ85749              N
+INFINITY CARE                                               20190726PLL            SOL105   W OKLAHOMA            ST  2                   TUCSON         AZ85714              N
+VICTORY REPAIR                                              20190726PLL            SOL6166  W SANDSBURG           CT                      TUCSON         AZ85743              N
+SANTAS WORKSHOP WTH MRS CLAUS LLC                           20190726PLL            LLC3233  N EL TOVAR            AV                      TUCSON         AZ85705              N
+FAST STOP                                                   20190726PLL            LLC7700  N RED WING            CI                      TUCSON         AZ85741              N
+TIERRA LINDA LANSCAPE                                       20190726PLL            SOL1983  W CABERNET            DR                      TUCSON         AZ85746              N
+HANNAH M RODRIQUEZ                                          20190726PLL            SOL15601 S EMPIRE              RD                      BENSON         AZ85602              N
+SKELLEN LETICIA MARIE                                       20190726PLL            SOL15601 S EMPIRE              RD                      BENSON         AZ85602              N
+KD CERAMICS                                                 20190701PLL            SOL15160   GOLD DUST           RD                      VOLCANO        CA95689              N
+VERIZON WIRELESS                                            20190726PLL            LLC2200    CABOT               DR  400                 LISLE          IL60532              N
+EMPRESSIVE CANDLES LLC                                      20190901PLL            LLC214     VERZON              CT                      ORLANDO        FL32839              N
+HUMBLE BEGINNINGS HOME RENOVATION LLC                       20190709PLL            LLC3411  E GLENN               ST  3                   TUCSON         AZ85716              N
+AMANDA H. GOODSON LLC                                       20190701PLL            LLC2725  W COYOTE MOONRISE     DR                      TUCSON         AZ85755              N
+ARIZONA CUSTOM BUILDERS LLC                                 20190729PLL            LLC5830  N MOUNTAIN LION       LN                      TUCSON         AZ85743              N
+JEWEL 3 NOODLE KITCHEN                                      20190729PLL            LLC7609  E VALLEY OVERLOOK     DR                      TUCSON         AZ85710              N
+DARK SIDE PROJECTS                                          20190729PLL            SOL1655  W AJO                 WY  149                 TUCSON         AZ85713              N
+NORIEGAS HANDYMAN SERVICES                                  20190729PLL            SOL342   W CALLE GARCIA                                TUCSON         AZ85705              N
+UPLIFTING COMFORTS LLC                                      20190729PLL            LLC4809  E TOWNER              ST                      TUCSON         AZ85712              N
+CHOPSHOP BARBERS                                            20190901PLL            LLC7115  E BROADWAY            BLVD                    TUCSON         AZ85710              N
+HANDS IN THE SAND, LLC                                      20190701PLL            LLC3162    W FELICIANO WAY                             TUCSON         AZ85742              N
+MARY HOFFERBER DBA JAZZERCISE                               20190901PLL            SOL13913 N PLACITA MESEA DE ORO                        ORO VALLEY     AZ85755    8587354887N
+CACTUS CLOUDS ART                                           20190729PLL            SOL8062    MALVERN                                     TUCSON         AZ85710    5202414267N
+EMMI SOLUTIONS LLC                                          20150131PLL            LLC2001    MARKET              ST  5                   PHILADELPHIA   PA19103              N
+DEVA CONCEPTS LLC                                           20141130PLL            LLC75      SPRING              ST  8TH                 NEW YORK       NY10012              N
+KENNEDY KALI JEAN                                           20190730PLL            SOL239   E LESTER              ST                      TUCSON         AZ85705              N
+CO LISA KWAN                                                20180430PLL            SOL0       PO BOX 723101                               SAN DIEGO      CA92172              N

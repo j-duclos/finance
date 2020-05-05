@@ -1,0 +1,112 @@
+3411  BUILDERS                                              20170501PLL            CRP3411    RICHMOND            AVE 200                 HOUSTON        TX77046              N
+GETGO AUDIO LLC                                             20160901PLL1417  541519LLC851   W CYPRESS CREEK       RD                      FORT LAUDERDALEFL33309              N
+GETGO AUDIO LLC                                             20160901PLL1417  541519LLC851   W CYPRESS CREEK       RD                      FORT LAUDERDALEFL33309              N
+BRANDS CONTRACTING LLC                                      20160826PLL1599  236220LLC195   N NIGHTFALL           AVE                     TUCSON         AZ85748              N
+BRANDS CONTRACTING LLC                                      20160826PLL1599  236220LLC195   N NIGHTFALL           AVE                     TUCSON         AZ85748              N
+GAROLD C BROWN FAMILY LP                                    20130101PLL1399  531120LLP5901  S BELVEDERE           AVE                     TUCSON         AZ85706              N
+GAROLD C BROWN FAMILY LP                                    20130101PLL1399  531120LLP5901  S BELVEDERE           AVE                     TUCSON         AZ85706              N
+PHELONY ART GALLERY                                         20160501PLL1799  453920LLC4500  N ORACLE              RD  277                 TUCSON         AZ85705              N
+PHELONY ART GALLERY                                         20160501PLL1799  453920LLC4500  N ORACLE              RD  277                 TUCSON         AZ85705              N
+RADIOLOGY LTD-RINCON IMAGING CENTER                         20161201SVL9998  621111LLC677   N WILMOT              RD                      TUCSON         AZ857112701          N
+RADIOLOGY LTD-RINCON IMAGING CENTER                         20161201SVL9998  621111LLC677   N WILMOT              RD                      TUCSON         AZ857112701          N
+COMCAST ENTERPRISE SERVICES                                 20161001PLL052017517919LLC1701    JOHN F KENNEDY      BLVD32                  PHILADELPHIA   PA19103              N
+COMCAST ENTERPRISE SERVICES                                 20161001PLL052017517919LLC1701    JOHN F KENNEDY      BLVD32                  PHILADELPHIA   PA19103              N
+SEATGEEK                                                    20170101PLL            CRP400     LAFAYETTE           ST  4TH                 NEW YORK       NY10003              N
+MOSHE BINYAMIN                                              20161130PLL99    999999SOL8721  E VICKSBURG           ST                      TUCSON         AZ85710              N
+ARIZONA AUTO LICENSE                                        20161201SVL9998  561990CRP5819  E SPEEDWAY            BLVD                    TUCSON         AZ85712    5202962027N
+ARIZONA AUTO LICENSE                                        20161201SVL9998  561990CRP5819  E SPEEDWAY            BLVD                    TUCSON         AZ85712    5202962027N
+ATEK ENGINEERING CONSULTANTS                                20140501SVL99    541330LLC2015  N FORBES              BLVD103                 TUCSON         AZ85705              N
+ATEK ENGINEERING CONSULTANTS                                20140501SVL99    541330LLC2015  N FORBES              BLVD103                 TUCSON         AZ85705              N
+SHINY IMPRESSIONS                                           20161201PLL1799  811111SOL2624  N 1ST                 AV                      TUCOSN         AZ85719    5203042890N
+SHINY IMPRESSIONS                                           20161201PLL1799  811111SOL2624  N 1ST                 AV                      TUCOSN         AZ85719    5203042890N
+NORTON WILLIAM BETTIN                                       20161201SVL9998  999999SOL2238  W PAINTED SUNSET      CI                      TUCSON         AZ85745              N
+NORTON WILLIAM BETTIN                                       20161201SVL9998  999999SOL2238  W PAINTED SUNSET      CI                      TUCSON         AZ85745              N
+PRO ONE CLEANING SERVICES LLC                               20160701SVL            LLC4400  E BROADWAY            AV  411                 TUCSON         AZ85711    5209107983N
+MY SEESTER'S                                                20161130PLL1799  453310LLC1250  S 4TH                 AV  126                 TUCSON         AZ85713              N
+MY SEESTER'S                                                20161130PLL1799  453310LLC1250  S 4TH                 AV  126                 TUCSON         AZ85713              N
+ALLIE'S CREATIONS                                           20161201PLL1799  454390SOL1526  N PLAZA DE LIRIOS                             TUCSON         AZ85745              N
+ALLIE'S CREATIONS                                           20161201PLL1799  454390SOL1526  N PLAZA DE LIRIOS                             TUCSON         AZ85745              N
+INTERIM PUBLIC MANAGEMENT                                   20161128SVL            LLC16868 N STONERIDGE          CT                      FOUNTAIN HILLS AZ85268              N
+INTERIM PUBLIC MANAGEMENT                                   20161128SVL            LLC16868 N STONERIDGE          CT                      FOUNTAIN HILLS AZ85268              N
+Z AND D KETTLE CORN LLC                                     20161014PLL11    722330LLC4880  N SABINO CANYON       RD  20292               TUCSON         AZ85750              N
+Z AND D KETTLE CORN LLC                                     20161014PLL11    722330LLC4880  N SABINO CANYON       RD  20292               TUCSON         AZ85750              N
+MATRIX EFX                                                  20161201PLL1799  811212SOL1150  E 31ST                ST                      TUCSON         AZ85713    5208919668N
+MATRIX EFX                                                  20161201PLL1799  811212SOL1150  E 31ST                ST                      TUCSON         AZ85713    5208919668N
+SHERRI GRAVES PHOTOGRAPHY                                   20160101PLL1799  541921SOL8550  E HAWTHORN            ST                      TUCSON         AZ85710              N
+SHERRI GRAVES PHOTOGRAPHY                                   20160101PLL1799  541921SOL8550  E HAWTHORN            ST                      TUCSON         AZ85710              N
+BUILDING BONDS                                              20161212SVL            LLC1665  E 18TH                ST  213                 TUCSON         AZ857196800          N
+BUILDING BONDS                                              20161212SVL            LLC1665  E 18TH                ST  213                 TUCSON         AZ857196800          N
+POPEYE'S #675                                               20161205PLL1199  722513CRP4415    HIGHWAY 6                                   SUGAR LAND     TX77478              N
+POPEYE'S #675                                               20161205PLL1199  722513CRP4415    HIGHWAY 6                                   SUGAR LAND     TX77478              N
+JOSHUA C NILES PLLC                                         20161130SVL            LLC5900  N CAMINO PRECIADO                             TUCSON         AZ85718              N
+JOSHUA C NILES PLLC                                         20161130SVL            LLC5900  N CAMINO PRECIADO                             TUCSON         AZ85718              N
+COREY, ALDEN, MARSH                                         20161202SVL99    531110SOL1830  E BROADWAY            BLVD124                 TUSCON         AZ85719    5207305122N
+COREY, ALDEN, MARSH                                         20161202SVL99    531110SOL1830  E BROADWAY            BLVD124                 TUSCON         AZ85719    5207305122N
+JAMMIN WITH HELEN                                           20150101SVL99    999999SOL5937  E BEVERLY             ST                      TUCSON         AZ85711              N
+JAMMIN WITH HELEN                                           20150101SVL99    999999SOL5937  E BEVERLY             ST                      TUCSON         AZ85711              N
+RICHARD ALBERT JAEGER JR                                    20161201SVL            SOL4819  E CONEFLOWER          DR                      TUCSON         AZ85756              N
+RICHARD ALBERT JAEGER JR                                    20161201SVL            SOL4819  E CONEFLOWER          DR                      TUCSON         AZ85756              N
+PURLING FLAMINGO DESIGNS                                    20161024PLL17    454390PRT1777  W ORANGE GROVE        RD  8104                TUCSON         AZ857041172          N
+PURLING FLAMINGO DESIGNS                                    20161024PLL17    454390PRT1777  W ORANGE GROVE        RD  8104                TUCSON         AZ857041172          N
+THE MAIDS OF TUCSON                                         20170101SVL            LLC4425  E BROADWAY            BLVD                    TUCSON         AZ85711              N
+TATA COMMUNICATIONS (AMERICA) INC                           20161115PLL0520  517110CRP2355    DULLES CORNER       BLVD700                 HERNDON        VA20171              N
+TATA COMMUNICATIONS (AMERICA) INC                           20161115PLL0520  517110CRP2355    DULLES CORNER       BLVD700                 HERNDON        VA20171              N
+COOLCAT WINDOW TINTING AND CUSTOMS LLC                      20170101PLL            LLC3851  E NANA                DR                      VAIL           AZ85641              N
+SALCIDO                                                     20161202SVL9998  999999SOL3717  S CALLE POLAR                                 TUCSON         AZ85730              N
+SALCIDO                                                     20161202SVL9998  999999SOL3717  S CALLE POLAR                                 TUCSON         AZ85730              N
+GENESIS FAMILY HAIR STYLING & SPA LLC                       20160101PLL179914453910LLC18    W GRANT               RD                      TUCSON         AZ85705              N
+GENESIS FAMILY HAIR STYLING & SPA LLC                       20160101PLL179914453910LLC18    W GRANT               RD                      TUCSON         AZ85705              N
+THE 0PTION CO                                               20170101PLL            LLC245   S PLUMER              AVE 9                   TUCSON         AZ85719              N
+BOWMAN AND HOCK                                             20161202PLL1799  541490SOL3342  E PIMA                ST                      TUCSON         AZ85716              N
+TIA PETERSON                                                20161201SVL9998  541199SOL10154 E ARIZMO              ST                      TUCSON         AZ85748              N
+TIA PETERSON                                                20161201SVL9998  541199SOL10154 E ARIZMO              ST                      TUCSON         AZ85748              N
+TWO STEPS AHEAD COFFEE                                      20161203PLL1799  454390SOL404   S CHERRY              AVE                     TUCSON         AZ85719              N
+TWO STEPS AHEAD COFFEE                                      20161203PLL1799  454390SOL404   S CHERRY              AVE                     TUCSON         AZ85719              N
+TILE STYLE AZ                                               20170101PLL            LLC3565  N PANTANO             ROAD                    TUCSON         AZ85750              N
+MY MOBILE FITNESS                                           20161205SVL9998  812990SOL3051  S JESSICA             AV                      TUCSON         AZ85730              N
+MY MOBILE FITNESS                                           20161205SVL9998  812990SOL3051  S JESSICA             AV                      TUCSON         AZ85730              N
+B&K PROPERTY GROUP                                          20161026SVL9998  531210LLC7850  N SILVERBELL          RD  114                 TUCSON         AZ857438219          N
+B&K PROPERTY GROUP                                          20161026SVL9998  531210LLC7850  N SILVERBELL          RD  114                 TUCSON         AZ857438219          N
+SCFRC-HW-G LLC                                              20161115PLL1399  531120LLC47      HULFISH             ST  210                 PRINCETON      NJ085423706          N
+SCFRC-HW-G LLC                                              20161115PLL1399  531120LLC47      HULFISH             ST  210                 PRINCETON      NJ085423706          N
+SCFRC-HW-G LLC                                              20161115PLL            LLC47      HULFISH             ST                      PRINCETON      NJ0854237068004478690N
+SCFRC-HW-G LLC                                              20161115PLL1399  531120LLC47      HULFISH             ST  210                 PRINCETON      NJ085423706          N
+SCFRC-HW-G LLC                                              20161115PLL1399  531120LLC47      HULFISH             ST  210                 PRINCETON      NJ085423706          N
+CASA AFUERENTRO                                             20170103SVL            MAR132   N TYNDALL             AV                      TUCSON         AZ857195760          N
+CHEZ LEON LLC                                               20160101SVL9998  999999LLC207   N BOULDER TERRACE                             TUCSON         AZ85745              N
+CHEZ LEON LLC                                               20160101SVL9998  999999LLC207   N BOULDER TERRACE                             TUCSON         AZ85745              N
+A-TEAM ELECTRICAL SERVICES                                  20160908PLL15    238210CRP0       PO BOX 432                                  CHINO VALLEY   AZ86323              N
+A-TEAM ELECTRICAL SERVICES                                  20160908PLL15    238210CRP0       PO BOX 432                                  CHINO VALLEY   AZ86323              N
+LENOVO GLOBAL TECHNOLOGY (US) INC                           20170101PLL            CRP8001    DEVELOPMENT         DR                      MORRISVILLE    NC27560              N
+CLEANOLOGY                                                  20161201SVL9998  999999PRT9017  E DESERT AIRE         ST                      TUCSON         AZ85730              N
+HEXAGON MINING                                              20161001PLL149917541519CRP3544  E FORT LOWELL         RD                      TUCSON         AZ85716              N
+HEXAGON MINING                                              20161001PLL149917541519CRP3544  E FORT LOWELL         RD                      TUCSON         AZ85716              N
+HEALTH INFORMATION MANAGEMENT SYSTEMS                       20140630PLL1499  519190LLC82    S STONE               AVE                     TUCSON         AZ85701              N
+HEALTH INFORMATION MANAGEMENT SYSTEMS                       20140630PLL1499  519190LLC82    S STONE               AVE                     TUCSON         AZ85701              N
+SKY IN THE PIE BOOKS                                        20160901PLL1799  454111LLC2509  N CAMPBELL            AV  372                 TUCSON         AZ85719    5203291225N
+SKY IN THE PIE BOOKS                                        20160901PLL1799  454111LLC2509  N CAMPBELL            AV  372                 TUCSON         AZ85719    5203291225N
+TUCSON LIFE CARE                                            20161111SVL9998  624190LLC3849  E BROADWAY            BLVD207                 TUCSON         AZ85716              N
+TUCSON LIFE CARE                                            20161111SVL9998  624190LLC3849  E BROADWAY            BLVD207                 TUCSON         AZ85716              N
+SOLID TREASURES                                             20160101PLL17    541490LLC824   W CALLE VALENCIANA                            SAHUARITA      AZ85629              N
+SOLID TREASURES                                             20160101PLL17    541490LLC824   W CALLE VALENCIANA                            SAHUARITA      AZ85629              N
+TAYLOR FAMILY BUILDING COMPANY LLC                          20081104PLL1399  531120LLC0       PO BOX 18483                                TUCSON         AZ85731              N
+TAYLOR FAMILY BUILDING COMPANY LLC                          20081104PLL1399  531120LLC0       PO BOX 18483                                TUCSON         AZ85731              N
+EASTBOURNE INVESTMENTS LTD                                  20161110PLL1399  531120LTD4750  N ORACLE              RD  210                 TUCSON         AZ85705              N
+EASTBOURNE INVESTMENTS LTD                                  20161110PLL1399  531120LTD4750  N ORACLE              RD  210                 TUCSON         AZ85705              N
+CENTENE CORPORATION                                         20151001SVL99    999999CRP7700    FORSYTH             BLVD                    ST LOUIS       MO63105              N
+CENTENE CORPORATION                                         20151001SVL99    999999CRP7700    FORSYTH             BLVD                    ST LOUIS       MO63105              N
+CASH 1                                                      20161201SVL9998  522291LLC725   E COVEY               LN  150                 PHOENIX        AZ85024              N
+CASH 1                                                      20161201SVL9998  522291LLC725   E COVEY               LN  150                 PHOENIX        AZ85024              N
+M & M SALES INC                                             20161206PLL1799  424690CRP2290  W WHITTIER            BLVDD                   LA HARBRA      CA90631              N
+QUALISPECT INC                                              20161113SVL            CRP11111   RICHMOND            AVE 127                 HOUSTON        TX770825556          N
+QUALISPECT INC                                              20161113SVL            CRP11111   RICHMOND            AVE 127                 HOUSTON        TX770825556          N
+CHEZ HAILE LLC                                              20161121SVL9998  531110LLC4122  E 6TH                 ST                      TUCSON         AZ85711              N
+CHEZ HAILE LLC                                              20161121SVL9998  531110LLC4122  E 6TH                 ST                      TUCSON         AZ85711              N
+DANIELS JEWELERS #306                                       20170201PLL            CRP0       PO BOX 3750                                 CULVER CITY    CA90231              N
+INTRUST ASSIST                                              20161201SVL9998  999999PRT10400 E ROYLSTONS           LN                      TUCSON         AZ85747    5208053578N
+INTRUST ASSIST                                              20161201SVL9998  999999PRT10400 E ROYLSTONS           LN                      TUCSON         AZ85747    5208053578N
+GRACIELA FELIX                                              20161206SVL            SOL635   N CHIPPEWA            AVE                     ANAHEIM        CA92801              N
+KLEEN COMPANY                                               20161206SVL            PRT3142  W TUMBLEWEED          ST                      TUCSON         AZ85746    5203041602N
+BOOKKEEPING BETTIES                                         20160501SVL            SOL9012  E 39TH                ST                      TUCSON         AZ85730    5202788417N
+PICASSO BOY INC. DBA SIGNS NOW                              20161212PLL            CRP3955  E SPEEDWAY            BLVD109                 TUCSON         AZ85712              N
+EVOLVE MARTIAL ARTS                                         20161212PLL            LLC5250  E PIMA                ST  101                 TUCSON         AZ85712    5203322369N

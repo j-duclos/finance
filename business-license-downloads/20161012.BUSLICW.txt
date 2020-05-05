@@ -1,0 +1,54 @@
+NV5 INC                                                     20160101SVL            CRP200   S PARK                RD  350                 HOLLYWOOD      FL33021              N
+HERITAGE ENVIRONMENTAL SERVICES LLC                         20160601SVL            LLC5400  W 86TH                ST                      INDIANAPOLIS   IN46268              N
+CAROLLO ENGINEERS INC                                       20161001SVL9998  541330CRP4600  E WASHINGTON          ST  500                 PHOENIX        AZ85034              N
+CHELSEA J LONGACRE                                          20161005SVL            SOL6690  E SAN TAN             WAY                     FLORENCE       AZ85132              N
+J & J EVENTS LLC                                            20161101PLL            LLC3504  S 6TH                 AVE 190                 TUCSON         AZ85713              N
+J & J EVENTS LLC                                            20161101PLL            LLC3504  S 6TH                 AVE 190                 TUCSON         AZ85713              N
+VALLEN DISTRIBUTION INC                                     20161001PLL17    423840CRP11680   GREAT OAKS          WAY 200                 ALPHARETTA     GA30022              N
+RICK'S FINEST TREES LLC                                     20161001PLL1799  454390LLC4840    AIRWAY              DR                      CENTRAL POINT  OR97502              N
+N-STORE SERVICES                                            20160221PLL15    238390LLC160     CHESTERFIELD INDUSTRBL                      CHESTERFIELD   MO63005              N
+ANDREW BRIAN PERKINS PH.D.                                  20161001PLL99    624190SOL430   N TUCSON              BL                      TUCSON         AZ857164745          N
+ANDREW BRIAN PERKINS PH.D.                                  20161001SVL99    624190SOL430   N TUCSON              BL                      TUCSON         AZ857164745          N
+PAUL'S BIKE SHOP                                            20161015PLL            SOL10614 E GREEK               DR                      TUCSON         AZ85747              N
+BLUE BOTTOM POOL SERVICE                                    20161017SVL            SOL7461  E 33RD                ST                      TUCSON         AZ857106042          N
+HOME IMPROVEMENT SOLUTIONS OF AZ                            20160817PLL            LLC10580 W BOPP                ROAD                    TUCSON         AZ857358774          N
+CINDY DUGGIN LCSW PLLC                                      20161003SVL9998  999999LLC1643  N ALVERNON            WAY 105                 TUCSON         AZ85712              N
+ALISA AZHOCAR                                               20161006SVL9998  999999SOL4351  E PIMA                ST                      TUCSON         AZ85712              N
+SOL FOOT SPA                                                20161006SVL            SOL6626  E TANQUE VERDE                                TUCSON         AZ85715              N
+SHAYLA DANIELLE BLAZER                                      20161006SVL9998  999999SOL4340  N MAINARD             DR                      TUCSON         AZ85719              N
+SHANE'S MOBILE PAINT REPAIR                                 20160801PLL1799  811111LLC9751  E STONEHAVEN          WAY                     TUCSON         AZ85747              N
+SHANE'S MOBILE PAINT REPAIR                                 20160801SVL1799  811111LLC9751  E STONEHAVEN          WAY                     TUCSON         AZ85747              N
+PANTANO ANIMAL CLINIC                                       20161020PLL            CRP19717 S 62ND                AVE F103                KENT           WA98032              N
+GREAT CLIPS #7098                                           20161201PLL            LLC5110  E PHELPS              ROAD                    SCOTTSDALE     AZ85254              N
+GREAT CLIPS #7151                                           20170101PLL            LLC5110  E PHELPS              ROAD                    SCOTTSDALE     AZ85254              N
+GLASS HARP                                                  20161007PLL1799  339910SOL345   E 12TH                ST                      TUCSON         AZ85701              N
+DOALL GENERAL REMODELING LLC                                20161007SVL            LLC2131  N MADELYN             AV                      TUCSON         AZ85712    5205051223N
+GAMEZ DOORS LLC                                             20161007PLL1799  332321LLC1351  E MILTON              RD                      TUCSON         AZ85706              N
+ALOFT TUCSON UNIVERSITY                                     20161001PLL189922721199LLC222     LAKEVIEW            AVE 200                 WEST PALM BEACHFL33401              N
+MARIGOLD TATTOO                                             20161101SVL            SOL5608  E 1ST                 ST                      TUCSON         AZ85711              N
+FOX PAVING                                                  20161011PLL            LLC1614  W CALLE LA PAZ                                TUCSON         AZ85713              N
+EXPRESS MOBILE REPAIR                                       20161104PLL            SOL5870  E BROADWAY            AVE                     TUCSON         AZ85711              N
+BLACK HILLS GOLD & BLADE OUTLE                              20161101PLL            SOL129   E PASTIME             RD                      TUCSON         AZ85705              N
+FIVE THOUSAND FORMS INC                                     20160901PLL            CRP8020    MINE                ST                      FOGELSVILLE    PA1805116226103950900N
+TUCSON YARD SERVICE                                         20161001SVL9998  999999SOL1050  N CAMINO SECO             1044                TUCSON         AZ85710              N
+BAJA MAMAS                                                  20161010PLL1799  238990SOL2930  E 23RD                ST                      TUCSON         AZ85713              N
+ORO VALLEY TOWNCAR SERVICE                                  20161001SVL            CRP1685  E DEER SHADOW         LN                      TUCSON         AZ85737              N
+CHARLEYS PHILLY STEAKS                                      20161101PLL            CRP4500  N ORACLE              RD  FC11                TUCSON         AZ85705    8582601061N
+ANDERSON SERVICE COMPANY                                    20161001PLL1799  321999SOL1017  N DODGE               BLVD                    TUCSON         AZ85716              N
+THE DRAGON PIZZA CO                                         20161014PLL            SOL281   W CALLE MELENDREZ                             GREEN VALLEY   AZ85614              N
+TMG GASES INC                                               20161001PLL1417  532490CRP675     MANSELL             ROAD240                 ROSWELL        GA30076              N
+LUCKY MINT LLC                                              20161101PLL            LLC6355  N VUELTA TAJO                                 TUCSON         AZ85718              N
+DESERT INSPIRATIONS                                         20161011PLL1799  711510SOL7408  E CUERNAVACA          PL                      TUCSON         AZ85710              N
+CONNIE BRANNOCK MUSIC                                       20160421SVL9998  711510LLC425   W PASEO REDONDO           H7                  TUCSON         AZ85701              N
+ARMENTA CINTHIA                                             20161011SVL9998  999999SAZ150   E PASTIME                                     TUCSON         AZ85705              N
+EAST TUCSON CONSULTING                                      20161013SVL            SOL11000 E PANTANO             TR                      TUCSON         AZ85730              N
+MADELINE ROBERTA ADAMS                                      20161011PLL9998  999999SOL1018  E SOUTH CAMPUS        DR  201                 TUCSON         AZ85719              N
+MADELINE ROBERTA ADAMS                                      20161011SVL9998  999999SOL1018  E SOUTH CAMPUS        DR  201                 TUCSON         AZ85719              N
+ABM DESIGNS                                                 20161011SVL9998  999999SOL1901  W ROMANY              RD                      TUCSON         AZ85713              N
+HOLY TOLEDO PIZZA CATERING SERVICES LLC                     20161011PLL1199  722330LLC930   E SOUTH               ST                      TUCSON         AZ85706              N
+ART WIRE GRAPHICS                                           20161108PLL            LLC5715    HWY 85                  #1768               CRESTVIEW      FL32536              N
+WELLNESS AND TRANSFORMATION                                 20161011SVL            COT5151  N N ORACLE RD         RD  117                 TUCSON         AZ85704    5203361387N
+HYDRIL USA DISTRIBUTION LLC                                 20160901SVL            CRP0       PO BOX 9550                                 FORT MYERS     FL33906    2392782007N
+GANADO PAINTING & WALLCOVERING                              20161101PLL            CRP102   S RIVER               DR  104                 TEMPE          AZ85281    6024541295N
+BRUNO & HUGO DESIGNS                                        20160901PLL            OTH6202  E 18TH                ST                      TUCSON         AZ85711    5202350955N
+BENTA LLC                                                   20160801PLL            MAR6911  E 4TH                 ST                      TUCSON         AZ85710    3252459432N

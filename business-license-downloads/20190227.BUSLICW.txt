@@ -1,0 +1,64 @@
+WL TRANSPORT                                                20190220PLL            SOL188   N FENCELINE           DR                      TUCSON         AZ85748              N
+ALICIA'S CLEANING SERVICE                                   20190213PLL            SOL4915  S CELTA VIGO          CT                      TUCSON         AZ85746              N
+RICH NAILS                                                  20190220PLL            LLC1927  S WILSON              AVE                     TUCSON         AZ85713              N
+ERIC SONDERER MD                                            20170201PLL            SOL5055  E BROADWAY            BLVDA-100               TUCSON         AZ85710              N
+CARL'S JR #1101497                                          20190301PLL            LLC20    E THOMAS              RD  2200                PHOENIX        AZ85012              N
+CARL'S JR #1101500                                          20190301PLL            LLC20    E THOMAS              RD  2200                PHOENIX        AZ85012              N
+JESSICA WEEKS, PLLC                                         20190228PLL            LLC3219  E BERMUDA             ST  REAR                TUCSON         AZ85716    9179729410N
+THADDEUS CAMP FINE ARTS                                     20190301PLL            SOL2701  E LA CIENEGA          DR                      TUCSON         AZ85726              N
+SPENCE INSPECTIONS                                          20190225PLL            SOL1031  N CATALINA            AVE                     TUCSON         AZ85711    5204019127N
+RATTLESNAKE SOLUTIONS LLC                                   20190101PLL            LLC3620  E NISBET              RD                      PHOENIX        AZ85032    4806943020N
+OASIS INDOOR & OUTDOOR REMODEL                              20190220PLL            SOL6200  S CAMPBELL AVE            6105                TUCSON         AZ85706    5202374112N
+2675 ELEMENTS LLC                                           20190204PLL            LLC5541  S LAMPLIGHTER         DR                      TUCSON         AZ85746              N
+LUSCIOUS DAINTIES BEYOND THE SEEDS LLC                      20190221PLL            LLC405   N ENTRADA DENTRO                              TUCSON         AZ85710              N
+MALVERN PANALYTICAL INC                                     20180101PLL            CRP117     FLANDERS            RD                      WESTBOROUGH    MA01581              N
+MORENO STUCCO & LATH REPAIR                                 20190221PLL            SOL9827  S SAHUARO GARDEN      LN                      TUCSON         AZ85756              N
+RBAR ENERGY                                                 20190101PLL            CRP0       PO BO 42124                                 TUCSON         AZ85733              N
+PERCHERON MEXICAN GRILL                                     20190221PLL            LLC526   W COLUMBIA            ST                      TUCSON         AZ85714              N
+RUNNING WILD PHOTOS LLC                                     20190201PLL            LLC6887  E LIGHTNING           DR  A                   TUCSON         AZ85708              N
+CAMPBELL 7 LLC                                              20180101PLL            LLC0       PO BOX 40007                                TUCSON         AZ85717              N
+HAVEN MEDICAL TRANSPORTATION                                20190221PLL            LLC4004  S 12 TH               ST                      TUCSON         AZ85714              N
+BARRO'S PIZZA                                               20190116PLL            CRP633   E RAY                 RD  116                 GILBERT        AZ85296    4808970521N
+UNTETHERED INC.                                             20190301PLL            CRP810   N CAMINO SANTIAGO         15                  TUCSON         AZ8574522723017681912N
+KFL SIGNS LLC                                               20190221PLL            LLC4014  E BROADWAY            RD  406                 PHOENIX        AZ85040    6025858359N
+S.S.B. WOODWORK LLC                                         20190112PLL            LLC10072 E BRYONWOOD           LN                      TUCSON         AZ85730              N
+PALAS CONCRET LLC                                           20190222PLL            LLC2223  E CALLE SIERRA DEL MAN                        TUCSON         AZ85706              N
+BMS MEDICAL MANAGEMENT INC                                  20141201PLL            CRP1220    DEWEY               WAY E                   UPLAND         CA91786              N
+ON24 INC                                                    20150401PLL            CRP50      BEALE               ST  8TH                 SAN FRANCISCO  CA94105              N
+LUNA'S PAPER DESIGNS                                        20190222PLL            SOL5710  E 34TH                ST                      TUCSON         AZ85711              N
+CELL-FIX                                                    20190225PLL            LLC201   E SUSANA              ST                      TUCSON         AZ85756              N
+CEB INC                                                     20160531PLL            CRP12651   GATEWAY             BLVD                    FORT MYERS     FL33913              N
+ANGEL VALLEY FUNERAL HOME                                   20190108PLL            LLC4901    VINELAND            RD  300                 ORLANDO        FL32811              N
+ROCKS ABOUT THE DESERT                                      20190304PLL            SOL3752    S FIGHTING FALCON   DR                      TUCSON         AZ857301087          N
+KONA AND LOKI                                               20190201PLL            SOL11029   E LONE PINE PL                              TUCSON         AZ85747    5416397378N
+MERIDIANO INVESTMENTS III                                   20190222PLL            LLC1     S CHURCH AVE              1120                TUCSON         AZ85701    5204442412N
+MERIDIANO INVESTMENTS                                       20190222PLL            LLC1     S CHURCH AVE              1120                TUCSON         AZ85701    5204442412N
+MERIDIANO INVESTMENTS II                                    20190222PLL            LLC1     S CHURCH AVE              1120                TUCSON         AZ85701    5204442412N
+HAIR BY ANA PALACIO LLC                                     20190225PLL            LLC2525  W BROGON              ST                      TUCSON         AZ85745              N
+YEVAGROUP LLC                                               20190225PLL            LLC8608  E OLD SPANISH         TR  81                  TUCSON         AZ85710              N
+HERITAGE CONCRETE PLACEMENT LLC                             20180101PLL            LLC5531  S CYPRESS HILL        DR                      TUCSON         AZ85757              N
+THE KRITTER SITTERS LLC                                     20190101PLL            LLC2930  N CARDELL             CIR                     TUCSON         AZ85712              N
+NUMBERS FOR NEIGHBORS                                       20190225PLL            SOL8521  E HELEN               PL                      TUCSON         AZ85715              N
+SERGIO CUSTOM PAINTING LLC                                  20190101PLL            LLC1420  S TYNDALL             AV                      TUCSON         AZ85713              N
+T-BONE'S LANDSCAPING AND MAINTENANCE                        20190220PLL            SOL7753  S FAST HORSE          RD                      TUCSON         AZ85756              N
+SPECIAL MEDICAL TRANSPORTATION                              20190301PLL            SOL3565  E SPEEDWAY            BL  171                 TUCSON         AZ85716              N
+RINCON POOL SERVICE                                         20190226PLL            SOL5311  E 19TH                ST                      TUCSON         AZ85711              N
+HARP AND ROE                                                20190401PLL            LLC1949  N CAMINO SERNA            C                   TUCSON         AZ85715              N
+TEMPLO FITNESS LLC                                          20180101PLL            LLC4317  S SILVER BEECH        AV                      TUCSON         AZ85730              N
+ANUBIAN ACQUISITIONS LLC                                    20190108PLL            LLC1600    A                   ST  110                 ANCHORAGE      AK99501              N
+DONA MAE CASA                                               20190301PLL            SOL0       PO BOX 86983                                TUCSON         AZ85754    3033786489N
+ARIZONA SOLAR CLEAN LLC                                     20190401PLL            LLC2009  W WATER               ST                      TUCSON         AZ85745              N
+SPINE CLUB CHIROPRACTIC                                     20190427PLL            LLC9252  E CHIRCO              PL                      TUCSON         AZ85710              N
+CRANE CONSTRUCTION COMPANY                                  20190225PLL            LLC343     WAINWRIGHT          DR  B                   NORTHBROOK     IL60062              N
+LEASE N BUY WITH EASE                                       20190401PLL            SOL8310  W CANVASBACK          LN                      TUCSON         AZ85757              N
+TURFVANA                                                    20190401PLL            LLC3755  N RUNWAY              DR  F                   TUCSON         AZ85705              N
+GREEN DESERT TUCSON LLC                                     20190301PLL            LLC2075  W GARDNER             LN  125                 TUCSON         AZ85705              N
+GONZALEZ FRANCISCO & JOSEFA TR                              20190101PLL            TRT3675    SANTA ELENA         CI                      CORONA         CA92882    9514639316N
+LEADU LLC                                                   20190101PLL            LLC1445  S NORTHVIEW           AVE                     TUCSON         AZ85713              N
+MR JOHN AIR CONDITIONING, HEATING & SOLA                    20190301PLL            LLC4758  E 17TH                ST                      TUCSON         AZ857114310          N
+ALLEN MEDICAL SYSTEMS                                       20190101PLL            CRP1069    STATE               RTE 46 E                BATESVILLE     IN47006              N
+BLESSING RENOVATION HOMES LLC                               20190226PLL            LLC60    W STONE               LP  1221                TUCSON         AZ85704              N
+OMEGA MEDIA LLC                                             20190101PLL            LLC4560    E RED MESA          DR                      TUCSON         AZ85718              N
+MEDICAL CODING CONSUL                                       20190301PLL            UNK4150  E HAWSER ST           ST                      TUCSON         AZ85739    2096070001N
+R&R CONSULTING                                              20190301PLL            MAR9240  NEMOON VIEW PLACE                             TUCSON         AZ85742    9285757419N
+MELUSINE                                                    20190226PLL            LLC4549  E FAIRMOUNT           ST                      TUCSON         AZ85712    5203323444N

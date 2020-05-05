@@ -1,0 +1,90 @@
+SMR SERVICE                                                 20171213PLL            SOL3740  N ROMERO              RD  B-19                TUCSON         AZ85705              N
+SMR SERVICE                                                 20171213PLL            SOL3740  N ROMERO              RD  B-19                TUCSON         AZ85705              N
+SONNY'S CYCLES LLC                                          20180101PLL            LLC1683  W GRANT               RD  103                 TUCSON         AZ85745              N
+KORRIDOR BEVERAGE SYSTEMS LLC                               20160702PLL            LLC850   E OHIO                ST  1                   TUCSON         AZ85714              N
+KORRIDOR BEVERAGE SYSTEMS LLC                               20160702PLL            LLC850   E OHIO                ST  1                   TUCSON         AZ85714              N
+LOOKAROUND ENTERPRISES                                      20171212PLL            SOL0       PO BOX 41843                                TUCSON         AR85717              N
+LOOKAROUND ENTERPRISES                                      20171212PLL            SOL0       PO BOX 41843                                TUCSON         AR85717              N
+DESANTIS CONSULTING                                         20171213PLL            SOL2437  N GERONIMO            AVE                     TUCSON         AZ85705              N
+DESANTIS CONSULTING                                         20171213PLL            SOL2437  N GERONIMO            AVE                     TUCSON         AZ85705              N
+LATITUDES FURNITURE                                         20171215PLL            LLC4721  E BROADWAY            BL                      TUCSON         AZ85711              N
+LATITUDES FURNITURE                                         20171215PLL            LLC4721  E BROADWAY            BL                      TUCSON         AZ85711              N
+LINDSAY L DON DDS MS                                        20180101PLL            LLC6027  E GRANT               RD                      TUCSON         AZ85712              N
+PRESSURE WORKS INDUSTRIES LLC                               20170606PLL            LLC185   N DESERT STREAM       DR                      TUCSON         AZ857452277          N
+PRESSURE WORKS INDUSTRIES LLC                               20170606PLL            LLC185   N DESERT STREAM       DR                      TUCSON         AZ857452277          N
+AIRBNB                                                      20180201PLL            SOL474   S KENYON              DR                      TUCSON         AZ857101044          N
+STUDIO 1127                                                 20180101PLL            LLC208   S PARK                AVE                     TUCSON         AZ85719              N
+WILLOW SALON                                                20180201PLL            SOL4115  W AERIE               DR  28                  TUCSON         AZ85741              N
+RACHEL WHITE AESTHETICS                                     20171218PLL            LLC10574 E BRIDGEPORT          ST                      TUCSON         AZ85747              N
+RACHEL WHITE AESTHETICS                                     20171218PLL            LLC10574 E BRIDGEPORT          ST                      TUCSON         AZ85747              N
+FREEDOM POOL SERVICES TUCSON                                20171215PLL            CRP0       P O BOX 17735                               TUCSON         AZ857317735          N
+FREEDOM POOL SERVICES TUCSON                                20171215PLL            CRP0       P O BOX 17735                               TUCSON         AZ857317735          N
+LIM BONG LIQUOR & GROCIERIES                                20180101PLL            LLC688   W GRANT               RD                      TUCSON         AZ85705              N
+LARILLA                                                     20170922PLL            SOL7752  N HARELSON            PL                      TUCSON         AZ85704              N
+LARILLA                                                     20170922PLL            SOL7752  N HARELSON            PL                      TUCSON         AZ85704              N
+RETRO-TECH SYSTEMS                                          20170630PLL            LLC853     EASTPORT CENTRE     DR                      VALPARAISO     IN463832909          N
+RETRO-TECH SYSTEMS                                          20170630PLL            LLC853     EASTPORT CENTRE     DR                      VALPARAISO     IN463832909          N
+PRO SERVICES                                                20171214PLL            LLC4156  E BROWN               WAY                     TUCSON         AZ85711              N
+PRO SERVICES                                                20171214PLL            LLC4156  E BROWN               WAY                     TUCSON         AZ85711              N
+UNBREAKABLE CENTER LLC                                      20171207PLL            LLC2028  E 14TH                ST                      TUCSON         AZ85719              N
+UNBREAKABLE CENTER LLC                                      20171207PLL            LLC2028  E 14TH                ST                      TUCSON         AZ85719              N
+GRIMALKIN STUDIO                                            20171201PLL            SOL2438  W CALLE RETANA                                TUCSON         AZ85745              N
+GRIMALKIN STUDIO                                            20171201PLL            SOL2438  W CALLE RETANA                                TUCSON         AZ85745              N
+AUDI TUCSON                                                 20180101PLL            LLC4646  E 22ND                ST                      TUCSON         AZ85711              N
+XPRESS LANE TRANSPORT LLC                                   20180201PLL            LLC3723  S BARROW              PL                      TUCSON         AZ85730              N
+GLO BEAUTY LOUNGE                                           20180101PLL            LLC219   W OHIO                ST                      TUCSON         AZ85719              N
+DAYS INN & SUITES                                           20171215PLL            CRP1440  S CRAYCROFT           RD                      TUCSON         AZ85711              N
+DAYS INN & SUITES                                           20171215PLL            CRP1440  S CRAYCROFT           RD                      TUCSON         AZ85711              N
+BORO QUARTZ SCIENTIFIC DECALS                               20171215PLL            LLC620   E 19TH                ST  130                 TUCSON         AZ85719              N
+BORO QUARTZ SCIENTIFIC DECALS                               20171215PLL            LLC620   E 19TH                ST  130                 TUCSON         AZ85719              N
+HOT BAMBOO LLC                                              20171228PLL            LLC5425  E BROADWAY            BLVD401                 TUCSON         AZ85711              N
+ALLIANCE PAINT & SEAL L.L.C.                                20171215PLL            LLC1050  N NATACHEE            AVE                     TUCSON         AZ85710              N
+ALLIANCE PAINT & SEAL L.L.C.                                20171215PLL            LLC1050  N NATACHEE            AVE                     TUCSON         AZ85710              N
+LEONEL ANTONIO GUTIERREZ                                    20171216PLL            SOL419   W PASEO FLAMENCO                              RIO RICO       AZ85648              N
+LEONEL ANTONIO GUTIERREZ                                    20171216PLL            SOL419   W PASEO FLAMENCO                              RIO RICO       AZ85648              N
+DAHLSTROM 8400 BROADWAY LLC                                 20170101PLL            LLC2730  E BROADWAY            BL  200                 TUCSON         AZ85716              N
+DAHLSTROM 8400 BROADWAY LLC                                 20170101PLL            LLC2730  E BROADWAY            BL  200                 TUCSON         AZ85716              N
+RACHEL RUBINO                                               20171215PLL            SOL2500  N IRONWOOD RIDGE      DR                      TUCSON         AZ85745              N
+RACHEL RUBINO                                               20171215PLL            SOL2500  N IRONWOOD RIDGE      DR                      TUCSON         AZ85745              N
+KILEY HARMON PHOTOGRAPHY LLC                                20170328PLL            LLC4826  E BERMUDA             ST                      TUCSON         AZ85712              N
+KILEY HARMON PHOTOGRAPHY LLC                                20170328PLL            LLC4826  E BERMUDA             ST                      TUCSON         AZ85712              N
+OVINGTONGLASS STUDIO                                        20180131PLL            SOL2325    LUNT                                        CHICAGO        IL6064547127739735583N
+MANKEL MECHANICAL LLC                                       20171218PLL            LLC1185  E BRENDA              DR                      CASA GRANDE    AZ85122              N
+MANKEL MECHANICAL LLC                                       20171218PLL            LLC1185  E BRENDA              DR                      CASA GRANDE    AZ85122              N
+ABUELAS COCINA                                              20171226PLL            LLC1801  N STONE               AV                      TUCSON         AZ85705              N
+ABUELAS COCINA                                              20171226PLL            LLC1801  N STONE               AV                      TUCSON         AZ85705              N
+PRODUCTIVE PATCHES LLC                                      20170912PLL            LLC3526  N SANTA RITA          AV                      TUCSON         AZ85719              N
+PRODUCTIVE PATCHES LLC                                      20170912PLL            LLC3526  N SANTA RITA          AV                      TUCSON         AZ85719              N
+CV STAR LLC                                                 20171117PLL            LTD4721  N CALLE DESECADA                              TUCSON         AZ85718              N
+CV STAR LLC                                                 20171117PLL            LTD4721  N CALLE DESECADA                              TUCSON         AZ85718              N
+2311 N 14TH AVENUE LLC                                      20180101PLL            LLC6620  N CAMINO DE LA KARINA                         TUCSON         AZ85718              N
+BLUE CROSSING LLC                                           20180101PLL            LLC9978  N BLUE CROSSING       WAY                     TUCSON         AZ85743    5205798812N
+ELITESCAPE                                                  20180101PLL            SOL801   S PRUDENCE            RD  3101                TUCSON         AZ85710              N
+FOUR CORNERS                                                20171218PLL            SOL9048  E ARBOR               ST                      TUCSON         AZ85730              N
+FOUR CORNERS                                                20171218PLL            SOL9048  E ARBOR               ST                      TUCSON         AZ85730              N
+CAPPSCO INTERNATIONAL                                       20180101PLL            CRP805   S PARK                AVE                     TUCSON         AZ85719    5209030822N
+EMPOWERMENT CLEANING SERVICES & MORE LLC                    20180101PLL            LLC4545  S MISSION             RD  137                 TUCSON         AZ85746              N
+R P A                                                       20180101PLL            SOL5749  E 14TH                ST                      TUCSON         AZ85711              N
+CATALINA KITCHEN & BATH                                     20180101PLL            SOL7162  E DESERT PALM         DR                      TUCSON         AZ85730              N
+OPTIMUM CONCRETE                                            20130101PLL1599  238110LLC1986  W MCMILLAN            ST                      TUCSON         AZ85705              N
+OPTIMUM CONCRETE                                            20130101PLL1599  238110LLC1986  W MCMILLAN            ST                      TUCSON         AZ85705              N
+GREENSCAPE LANDSCAPING LLC                                  20171201PLL            LLC487   W AMBER HAWK          CT                      GREEN VALLEY   AZ85614              N
+GREENSCAPE LANDSCAPING LLC                                  20171201PLL            LLC487   W AMBER HAWK          CT                      GREEN VALLEY   AZ85614              N
+INSOMNIA COOKIES                                            20180101PLL            LLC10      CAMPUS              BLVD1                   NEWTON SQUARE  PA19073              N
+SONORA QUEST LABS T4P                                       20171110PLL            LLC630   N ALVERNON            WAY 200                 TUCSON         AZ85713              N
+SONORA QUEST LABS T4P                                       20171110PLL            LLC630   N ALVERNON            WAY 200                 TUCSON         AZ85713              N
+BEST DAY EVER THERAPEUTIC MASSAGE LLC                       20180101PLL            LLC9791  E PINYON PINE         DR                      TUCSON         AZ857487894          N
+INTREPID TECHNOLOGY SOLUTIONS LLC                           20171218PLL            LLC2915  N CHANTE              CT                      TUCSON         AZ85745              N
+CHARLIE T RV LLC                                            20180101PLL            LLC1600  E ROGER               RD  21                  TUCSON         AZ85719              N
+ROMAN EMPIRE                                                20171201PLL            CRP3604  E CALLE ALARCON                               TUCSON         AZ85716              N
+ROMAN EMPIRE                                                20171201PLL            CRP3604  E CALLE ALARCON                               TUCSON         AZ85716              N
+STRONG HOME FAUCETS                                         20171218PLL            LLC2550  E RIVER               RD  13301               TUCSON         AZ85718              N
+PAINTED HILLS LANDSCAPING LLC                               20180101PLL            LLC9513  N ELAN                LN                      TUCSON         AZ85742              N
+MARTINEZ-ROSS MARKETING & ADVERTISING                       20171201PLL            SOL5301  E LINDEN              PL                      TUCSON         AZ85712              N
+MARTINEZ-ROSS MARKETING & ADVERTISING                       20171201PLL            SOL5301  E LINDEN              PL                      TUCSON         AZ85712              N
+EASTSIDE DENTAL SERVICE                                     20180101PLL            CRP1720  N BEVERLY             AVE                     TUCSON         AZ857123602          N
+DEGRAZIA ELEMENTARY SCHOOL                                  20160901PLL            CRP5400    MISTY               LN                      NAMPA          ID83686              N
+RIGHTEOUS RELIC                                             20180101PLL            LLC1334  S ROSEMONT            AVE                     TUCSON         AZ85711              N
+PUFF N STUFF SMOKE SHOP                                     20180101PLL            SOL4140  E GRANT               RD                      TUCSON         AZ85712              N
+SIGNART, INC.                                               20171220PLL            CRP11857 N SAGUARO             BL  A                   FOUNTAIN HILLS AZ85268    4808165892N
+COLLINGS CPA FIRM, PLLC                                     20180101PLL            LLC2930  N SWAN                ROAD209                 TUCSON         AZ85712    5203211334N

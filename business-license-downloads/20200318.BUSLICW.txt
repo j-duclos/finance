@@ -1,0 +1,48 @@
+MAIN GATE ORIGINALS                                         20200301PLL            PRT5581  E FINISTERRA          DR                      TUCSON         AZ85750              N
+SONORA QUEST LABORATORIES                                   20200101PLL            CRP630   N ALVERNON            WAY 200                 TUCSON         AZ85711              N
+DESERT VICTORIA LLC                                         20200311PLL            LLC3344  E KLAIENDALE          RD  2                   TUCSON         AZ85716              N
+KONA KONA                                                   20200601PLL            LLC13    N STONE               AVE                     TUCSON         AZ85701              N
+COIN CLOUD                                                  20180511PLL            CRP9580  W SAHARA              AVE                     LAS VEGAS      NV89117              N
+COIN CLOUD                                                  20190806PLL            CRP9580  W SAHARA              AVE 200                 LAS VEGAS      NV89117              N
+COIN CLOUD                                                  20190325PLL            CRP9580  W SAHARA              AVE 200                 LAS VEGAS      NV89117              N
+COIN CLOUD                                                  20190806PLL            CRP9580  W SAHARA              AVE 200                 LAS VEGAS      NV89117              N
+COIN CLOUD                                                  20190806PLL            CRP9580  W SAHARA              AVE 200                 LAS VEGAS      NV89117              N
+SSAZ QUALITY CLEANING LLC                                   20200222PLL            LLC513   S CODY LOOP           RD                      ORACLE         AZ85623              N
+KAITLIN K MARTIN                                            20200311PLL            SOL915   E LUSTRUM             LN                      TUCSON         AZ85719              N
+DAVIS TRINA NOEL                                            20200317PLL            SOL6631  N CAMPBELL            AVE 243                 TUCSON         AZ85718              N
+QUALITY OF LIFE COUNSELING                                  20190601PLL            LLC1400  N TANQUE VERDE LOOP   RD                      TUCSON         AZ85749              N
+FASTSIGNS GLENDALE                                          20200301PLL            LLC6020  W BELL                RD  E101                GLENDALE       AZ85308              N
+T AND M PARTY RENTALS AND MORE LLC                          20200311PLL            LLC3825  N PASATIEMPO          PL                      TUCSON         AZ85705              N
+UNLIMITED DRYWALL & PAINTING                                20200401PLL            LLC8691  N 75TH                AVE                     PEORIA         AZ85345              N
+LAVISH LOOKS BEAUTIQUE                                      20200311PLL            SOL1655  W AJO                 WAY 444                 TUCSON         AZ85713              N
+MACHEN ENTERPRISES LLC                                      20200311PLL            LLC9261  E MAGDALENA           RD                      TUCSON         AZ85710              N
+JDM DESIGNS INC                                             20200320PLL            CRP14145 S STAGECOACH          RD                      STAGECOACH     TX773558402          N
+BEDDING ECT                                                 20200331PLL            SOL10839 S SIDE SADDLE         LN                      TUCSON         AZ85756              N
+BEDDING ECT                                                 20200331SVL            SOL10839 S SIDE SADDLE         LN                      TUCSON         AZ85756              N
+ARIZONA CARE ADVOCATES PC                                   20130213PLL            CRP1645  W VALENCIA            ROAD109                 TUCSON         AZ85746    5203028962N
+ARES FRAMING LLC                                            20200311PLL            LLC4626  E 25TH ST                                     TUCSON         AZ85711              N
+SKY SMOKE SHOP                                              20200330PLL            SOL247   W GRANT               RD                      TUCSON         AZ85705    5205514186N
+ASHLEY L OOSTING                                            20200312PLL            SOL372   E THOMAS JEFFERSON    WAY                     SAHUARITA      AZ85629              N
+NOTARY 4 AZ.COM                                             20200312PLL            SOL1875  W SPEEDWAY            BLVD                    TUCSON         AZ85745              N
+AFFINITY JANITORIAL SERVICES & BUILDING MAINTENANCE LLC     20200105PLL            LLC5460  W CALLE PAINT                                 TUCSON         AZ85741              N
+BSK ASSOCIATES                                              20200201PLL            CRP550   W LOCUST              AVE                     FRESNO         CA936501079          N
+ROCKETRY WORKS LLC                                          20200312PLL            LLC1684  S RESEARCH            LP  550                 TUCSON         AZ85710              N
+JT REMODELING                                               20200313PLL            SOL3445  N SHANNON             RD  19                  TUCSON         AZ85705              N
+ALANA NICOLE HAYES                                          20200313PLL            SOL6131  E 28TH                ST                      TUCSON         AZ85711              N
+VIDA RESTAURANTS                                            20200316PLL            LLC719   N JONES               BLVD                    TUCSON         AZ85716              N
+PUFF AND STUFF 24/7 SMOKE SHOP                              20200313PLL            LLC4656  E SPEEDWAY            BLVD                    TUCSON         AZ85712              N
+HEALTHY TUCSON                                              20200401PLL            LLC0       PO BOX 31303                                TUCSON         AZ85751              N
+PRODUCTION ROOFING LLC                                      20200401PLL            LLC619   N HORNE                                       MESA           AZ85203              N
+GINGER'S PECULIAR                                           20200101PLL            SOL4664  E SPEEDWAY            BLVD                    TUCSON         AZ85712              N
+COHEN ARIZONA LLC                                           20191218PLL            LLC13701 N KENDALL             DR  204                 MIAMI          FL33186              N
+COHEN ARIZONA LLC                                           20191218PLL            LLC13701 N KENDALL             DR  204                 MIAMI          FL33186              N
+BURLINGTON COAT FACTORY                                     20200320PLL            CRP1830  N ROUTE 130                                   BURLINGTON     NJ08016              N
+DENTAL LAB HOLDINGS LLC                                     20200309PLL            LLC4435  E HOLMES              AVE 200                 MESA           AZ85206              N
+RX2 RESTORATION LLC                                         20200316PLL            LLC8332  S OTIS                DR                      TUCSON         AZ85747              N
+SPORTSBOOK REVIEWS ONLINE                                   20200101PLL            SOL9262  E SPEEDWAY            BL                      TUCSON         AZ85710              N
+Q                                                           20170801PLL            CRP1324  E WASHINGTON          BLVD                    LOS ANGELES    CA90021              N
+Q LUV                                                       20190401PLL            CRP1324  E WASHINGTON          BLVD                    LOS ANGELES    CA90021              N
+ROSEANNE POWELL                                             20200317PLL            SOL2020  N BELL                AV  B                   TUCSON         AZ85712              N
+Q                                                           20200221PLL            CRP1324  E WASHINGTON          BLVD                    LOS ANGELES    CA90021              N
+PETES DETAIL LLC                                            20200317PLL            LLC8830  E BAKER               ST                      TUCSON         AZ85710              N
+BIOTECHNICA CONSULTING                                      20200316PLL            LLC500   N PLACITA MIRA                                TUCSON         AZ85711    5204192937N

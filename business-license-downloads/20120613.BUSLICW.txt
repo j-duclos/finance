@@ -1,0 +1,73 @@
+NORTHGATE LAUNDROMAT                                        20110601PLL9917  812310SOL4701  W RED WOLF            DR                      TUCSON         AZ85742              N
+KOREY'S LAKESIDE AUTO REPAIR INC                            20120101PLL1799  811111CRP8051  E LAKESIDE            PKWY114                 TUCSON         AZ857301241          N
+CHACKO-HERTZ FINANCIAL SOLUTIONS LLC                        20120701SVL            LLC0       PO BOX 86711                                TUCSON         AZ85754              N
+OLAN MILLS                                                  20111108PLL1799  541921CRP11000   VIKING              DR                      EDEN PRAIRIE   MN55344              N
+SHOE CARNIVAL INC                                           20120625PLL            CRP7500  E COLUMBIA            ST                      EVANSVILLE     IN47715              N
+ONE PACK LLC                                                20120701PLL            LLC160     FIELD CREST         AVE                     EDISON         NJ08837              N
+LES CHEVEUX SALON & BOUTIQUE                                20120701PLL            LLC0       PO BOX                                      TUCSON         AZ85740              N
+VALLEY PRO ELECTRIC LLC                                     20120606PLL1599  238990LLC4939  W RAY                 RD  4                   CHANDLER       AZ852260600          N
+DWIGHT AUTO GLASS                                           20120606PLL1799  811122LLC3601  E SPEEDWAY            BLVD                    TUCSON         AZ85716              N
+SUPERIOR METAL BUILDINGS AND ROOFING INC                    20120606PLL15    238160CRP4879  S HIGHWAY 92                                  SIERRA VISTA   AZ856509599          N
+LEE A MISEVCH                                               20120701PLL            PRT3024  N SANTA RITA          AVE                     TUCSON         AZ85719              N
+EXQUIRO, INC.                                               20120601PLL17    424920CRP2550  W TYVOLA              RD  300                 CHARLOTTE      NC28217    7049983363N
+ERIC JOHNSON ENTERPRISES, INC.                              20120601PLL17    423220CRP0       PO BOX 6003                                 LOUISVILLE     KY4020600035028937178N
+BLING BABES JEWELRY                                         20120609PLL1799  541490SOL7450  E CALLE SINALOA                               TUCSON         AZ85710    5202454945N
+ROGO'S PARADISE POOLS                                       20120601SVL            PRT3535  S PALO VERDE          RD  B                   TUCSON         AZ85713              N
+O'MY BUNS CAFE                                              20120607PLL179911722213LLC7124  N CORRIDA DE VENADO                           TUCSON         AZ85718              N
+DO RIGHT CONSTRUCTION                                       20120607PLL15    236118LLC4369  W VALENCIA            RD  5                   TUCSON         AZ85746              N
+NO MORE PRESSURE                                            20120615PLL            SOL10977 S ALLEY MOUNTAIN      DR                      VAIL           AZ85641              N
+COLORADO LAND CONSULTANTS                                   20120601SVL            LLC9375  E SHEA                BL  100                 SCOTTSDALE     AZ85260    4809445610N
+PARADISE POOL SERVICE                                       20120601PLL179915561790SOL1162  W DOOLAN              DR                      TUCSON         AZ85755              N
+ARIZONA DESIGN                                              20120701PLL            SOL2223  E EDISON              ST                      TUCSON         AZ85719              N
+HEALTHY HOMEMAKERS                                          20120605SVL9998  561720SOL8128  E 4TH                 PL                      TUCSON         AZ85710              N
+SIMONMED IMAGING LLC-WILMOT                                 20120601SVL9998  621512LLC456   N MESA                DR                      MESA           AZ85208              N
+BUSHI SUSHI                                                 20120618PLL            CRP4689  E SPEEDWAY            BL                      TUCSON         AZ85712    5203256552N
+PROCESS DESIGN BUILD LLC                                    20120501PLL15    236220LLC7532  N LA CHOLLA           BL                      Tucson         AZ8574123075202971442N
+BRETON AVENIR CONSTRUCTION SER                              20120501PLL15    236220CRP10      AUSTIN              PL                      CLIFTON        NJ07014    6143444119N
+E3 ARMS, LLC                                                20120607PLL1799  332994LLC841   E 47TH                ST  105                 TUCSON         AZ85713    5208077737N
+E3 ARMS, LLC                                                20120607SVL1799  332994LLC841   E 47TH                ST  105                 TUCSON         AZ85713    5208077737N
+D&K ENTERPRISES LLC                                         20120607PLL15    562910LLC517   S LEBARON             ST                      MESA           AZ852102403          N
+AVENTAS HOMECARE LLC                                        20120701SVL            LLC2193  N CAMINO PRINCIPAL        145                 TUCSON         AZ85715              N
+WAYNE HALLQUIST LLC                                         20120601PLL1199  531120LLC2730  E BROADWAY            BLVD200                 TUCSON         AZ85716              N
+TKS PRISTINE CARPET CARE LLC                                20120314SVL9998  561740LLC1037  S ALVERNON            WAY 200                 TUCSON         AZ85711              N
+MAC REALTY LLC                                              20120101SVL9998  531110LLC4934  E TIMROD              ST                      TUCSON         AZ85711              N
+LAYTON CONSTRUCTION CO INC                                  20120620PLL            CRP4686  E VAN BUREN           ST  100                 PHOENIX        AZ850086945          N
+SOMETHING SWEET ETC                                         20120512PLL11    722330PRT7487  W SWEET RIVER         RD                      TUCSON         AZ85743              N
+PETS FOR YOUTH, A NON-PROFIT CORP                           20120501PLL            CRP9580  E PALM TREE           DR                      TUCSON         AZ85748              N
+VISIONARY STITCHWORKS                                       20120601PLL1799  448320SOL0       PO BOX 43905                                TUCSON         AZ857333905          N
+FIRST CLASS BARBERSHOP                                      20120701PLL            PRT2808  N COUNTRY CLUB        RD                      TUCSON         AZ85716              N
+HALL MICHAEL S                                              20120608PLL1599  236118SOL5121  E 29TH                ST  221                 TUCSON         AZ85711              N
+UP IN SMOKE LLC                                             20120608PLL            LLC2705  S MARIO RANCH         LN                      TUCSON         AZ85730              N
+OLD PUEBLO PARALEGAL SERIVCES                               20120701SVL            SOL6181  N PASEO ZALDIVAR                              TUCSON         AZ85750              N
+SHEARMAN REPORTING SERVICES                                 20120601SVL            SOL473   E STERLING CANYON     DR                      VAIL           AZ85641              N
+DANCE SPORT STUDIO & TOURS                                  20120526PLL1299  561520SOL6672  E CALLE LA PAZ            B                   TUCSON         AZ85715              N
+SYZYGYLOGOS LLC                                             20120228SVL            LLC180   N WESTVIEW            DR                      VAIL           AZ85641              N
+LAURANCE SILVERMAN, MD P.C.                                 20120601SVL9998  621111CRP5335  N VENTANA VISTA       RD                      TUCSON         AZ85750              N
+NORTHWEST CONSTRUCTION                                      20120608PLL15    236118LLC4927  N JERSEY              CT                      TUCSON         AZ85705              N
+RED WAGON STEAK AND SUB                                     20120601PLL1199  722330LLC829   N CATALINA            AV                      TUCSON         AZ85711              N
+APACHE COUNTRY BOOKS                                        20120601PLL9917  999999SOL2508  E BEVERLY             DR                      TUCSON         AZ85716              N
+WILLIAMSON AUTOMOTIVE LLC                                   20120608PLL1799  811111LLC7302  E 20TH                ST                      TUCSON         AZ85710    5203122208N
+CABS R US                                                   20120608SVL            SOL4732  E BURNS               ST                      TUCSON         AZ85711              N
+MARK HAMILTON                                               20120616PLL            SOL3115  N FAIRVIEW            AV  36                  TUCSON         AZ85705    5208089608N
+BUSHI SUSHI                                                 20120618SVL            CRP4689  E SPEEDWAY            BL                      TUCSON         AZ85712    5203256552N
+KSR CONTRACTING LLC                                         20120601PLL15    236115LLC3350  W MOORE               ROAD                    TUCSON         AZ85742    5208702341N
+VORIS MARIA                                                 20120607SVL9998  541430SOL1511  E HAMPTON             ST                      TUCSON         AZ85719              N
+SOUTHWEST SADDLES AND TACK                                  20120611PLL1799  316999SOL5250  S CAMPBELL            AV  251                 TUCSON         AZ85706              N
+ARIZONA DESERT POOL SERVICE                                 20120615SVL            SOL6901  S PLACITA DEL PERNOE                          TUCSON         AZ85746              N
+INTERACTIVE INTELLIGENCE ADMINISTRATION                     20120701PLL            LLC7601    INTERACTIVE         WAY                     INDIANAPOLIS   IN46278              N
+J. CREW INC                                                 20120601PLL17    448190CRP770     BROADWAY                10TH FLOOR          NEW YORK       NY10003              N
+DO OANH                                                     20120611SVL9998  812113SOL6147  E BROADWAY            BL                      TUCSON         AZ85711              N
+TRANG CAO                                                   20120611SVL9998  812113SOL205   N WILMOT              ROAD366                 TUCSON         AZ85711              N
+PLAYNETWORK INC                                             20080101PLL17    443112CRP0       8727 148TH AVE NE                           REDMOND        WA98052              N
+MADEWELL INC                                                20120601PLL17    448190CRP770     BROADWAY                                    NEW YORK       NY10003              N
+GARCIA SMITH PROPERTIES LLC                                 20120322PLL1399  531120LLC3540  E GRANT               RD                      TUCSON         AZ857162932          N
+AZ PLATINUM ENTERTAINMENT                                   20120611PLL12    999999SOL8455  E STELLA              RD                      TUCSON         AZ85730              N
+TYRONE COPELAND CEHPHAS                                     20120101SVL            SOL4415  E GRANT               RD  a207                TUCSON         AZ85712              N
+JAMES M BOSTON                                              20120611PLL1599  236118SOL4141  E LEE                 ST  9                   TUCSON         AZ85712    5208783539N
+J.H CELAYA                                                  20120611PLL1599  236118SOL1712  E WARREN              PL                      TUCSON         AZ85714              N
+HALPER PHOTOGRAPHY                                          20120611PLL1799  541921SOL3400  E SPEEDWAY                118-178             TUCSON         AZ85716              N
+FREAKEE T'S & SQUEEZ                                        20120611PLL1799  454390LLC9254  E CORTE ARROYO NORTE                          TUCSON         AZ85710              N
+DR AIR LLC                                                  20120801PLL            LLC7835  E IRVINGTON           RD                      TUCSON         AZ85730              N
+STARDUST DANCE & TOUR AGENCY                                20120611SVL            SOL6672  E CALLE LA PAZ            B                   TUCSON         AZ85715              N
+PHOEBE JENKINS                                              20120611SVL9899  812199SOL639   N 6TH                 AV                      TUCSON         AZ85705              N
+CIO NOW LLC                                                 20120201PLL            LLC0       P O BOX 13241                               SCOTTSDALE     AR8526732414802153300N

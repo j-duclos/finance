@@ -1,0 +1,73 @@
+CARANDOLET MEDICAL GROUP STRUCTURAL HEART                   20200101PLL            LLC3501  E SPEEDWAY            BL  300                 TUCSON         AZ85716              N
+SOUTHERN ARIZONA ICE AND WATER                              20200101PLL            LLC4655  W PLACITA MADRE ISABEL                        TUCSON         AZ85742              N
+ANYAEJI WINIFRED N                                          20191211PLL            SOL5907  E SANDERLING          DR                      TUCSON         AZ85756              N
+ANYAEJI WINIFRED N                                          20191211PLL            SOL5907  E SANDERLING          DR                      TUCSON         AZ85756              N
+HAPPILY BECAMING                                            20191211PLL            SOL3501  N SIERRA FALLS        PL                      TUCSON         AZ85712              N
+HAPPILY BECAMING                                            20191211PLL            SOL3501  N SIERRA FALLS        PL                      TUCSON         AZ85712              N
+CALI KIND CLOTHING CO                                       20191211PLL            SOL0       POBOX 860                                   CLOVERDALE     CA85425              N
+CALI KIND CLOTHING CO                                       20191211PLL            SOL0       POBOX 860                                   CLOVERDALE     CA85425              N
+MOUNTAIN RENOVATION LLC                                     20200101PLL            LLC1630  S MISSION             RD  29                  TUCSON         AZ85713              N
+CONSOR ENGINEERS                                            20200101PLL            LLC1430  E FORT LOWELL         ROAD200                 TUCSON         AZ85719              N
+CONS CLOSET                                                 20191212PLL            SOL2828  E LORETTA             DR                      TUCSON         AZ85716              N
+CONS CLOSET                                                 20191212PLL            SOL2828  E LORETTA             DR                      TUCSON         AZ85716              N
+VEGA'S                                                      20191212PLL            SOL2120  N SILVERBELL          RD  6205                TUCSON         AZ85745              N
+VEGA'S                                                      20191212PLL            SOL2120  N SILVERBELL          RD  6205                TUCSON         AZ85745              N
+METRO  BY T-MOBILE                                          20191212PLL            LLC3285  E MCDOWELL            RD                      PHOENIX        AZ85008              N
+METRO  BY T-MOBILE                                          20191212PLL            LLC3285  E MCDOWELL            RD                      PHOENIX        AZ85008              N
+ADVOCATUS COUNSELING                                        20191216PLL            LLC11336 N GRAY BOULDER        CT                      ORO VALLEY     AZ85737              N
+ADVOCATUS COUNSELING                                        20191216PLL            LLC11336 N GRAY BOULDER        CT                      ORO VALLEY     AZ85737              N
+FREIGHT TRAIN COFFEE COMPANY                                20200101PLL            LLC808   N ALVERNON            WAY                     TUCSON         AZ85711              N
+SPRINT SPECTRUM                                             20200123PLL            LTD21      ROBERT PITT         DR  310                 MONSEY         NY10952              N
+SONYA EVANS-LINSELL                                         20200101PLL            SOL2691  E WETSTONES           RD                      VAIL           AZ85641              N
+SONYA EVANS-LINSELL                                         20200101PLL            SOL2691  E WETSTONES           RD                      VAIL           AZ85641              N
+VALDEZ CLEANING SERVICES                                    20191213PLL            SOL526   E JACINTO             RD                      TUCSON         AZ85705              N
+VALDEZ CLEANING SERVICES                                    20191213PLL            SOL526   E JACINTO             RD                      TUCSON         AZ85705              N
+VICENTE UTRERA                                              20191213PLL            SOL2300  S 7TH                 AV                      TUCSON         AZ85713    5204431164N
+GTECH GLASS & TINT INC                                      20191118PLL            CRP12101 W KRISTINA            LN                      TUCSON         AZ85735              N
+GTECH GLASS & TINT INC                                      20191118PLL            CRP12101 W KRISTINA            LN                      TUCSON         AZ85735              N
+OR LOCKSMITH LLC                                            20200101PLL            LLC2550  E RIVER               RD  7105                TUCSON         AZ85718              N
+CLEMENTINE AND CLOVE                                        20191213PLL            SOL901   N 7TH                 AVE                     TUCSON         AZ85705              N
+CLEMENTINE AND CLOVE                                        20191213PLL            SOL901   N 7TH                 AVE                     TUCSON         AZ85705              N
+LEAPIN LIZARD POOL SERVICE                                  20191213PLL            CRP7355  N ORACLE              RD  105                 TUCSON         AZ85704    5204903527N
+LEAPIN LIZARD POOL SERVICE                                  20191213PLL            CRP7355  N ORACLE              RD  105                 TUCSON         AZ85704    5204903527N
+KING SENIOR RIDES LLC                                       20191213PLL            LLC250   N ARCADIA             AV                      TUCSON         AZ85711              N
+RJM PRECISION INSTRUMENTS LLC                               20180501PLL            LLC5007    PACIFIC             HWY 19                  FIFE           WA98424    2539228808N
+RJM PRECISION INSTRUMENTS LLC                               20180501PLL            LLC5007    PACIFIC             HWY 19                  FIFE           WA98424    2539228808N
+FLUFFY ENTERPRISES                                          20191213PLL            SOL5809  E HELEN               ST                      TUCSON         AZ85712              N
+FLUFFY ENTERPRISES                                          20191213PLL            SOL5809  E HELEN               ST                      TUCSON         AZ85712              N
+CERBERUS SNACKS LLC                                         20200101PLL            LLC0       PO BOX 747                                  VAIL           AR85641              N
+ARIZONA AUTO & TRUCK                                        20200101PLL            LLC5135  N CASA GRANDE         HWY 111                 TUCSON         AZ85743              N
+POS BREAK FIX TECHNOLOGIES                                  20200101PLL            SOL3140  W VERDE               DR                      BENSON         AZ856027764          N
+ROGUE SALON                                                 20200101PLL            LLC6101  E 20TH                ST                      TUCSON         AZ85711              N
+DIANZI SERV                                                 20191201PLL            SOL8973  E CALLE BOLIVAR                               TUCSON         AZ85712              N
+DIANZI SERV                                                 20191201PLL            SOL8973  E CALLE BOLIVAR                               TUCSON         AZ85712              N
+CROY WOOD WORKING                                           20191216PLL            SOL10415 E YAKIMA              ST                      TUCSON         AZ85747              N
+CROY WOOD WORKING                                           20191216PLL            SOL10415 E YAKIMA              ST                      TUCSON         AZ85747              N
+TUCSON HEALTHY EATS KITCHEN                                 20191216PLL            SOL1023  W SONORA              ST                      TUCSON         AZ85745              N
+TUCSON HEALTHY EATS KITCHEN                                 20191216PLL            SOL1023  W SONORA              ST                      TUCSON         AZ85745              N
+COMPASS SALES SOLUTIONS LLC                                 20180630PLL            LLC129   E 50TH                ST                      BOISE          ID83714              N
+R & R REAL ESTATES LLC                                      20190220PLL            LLC5341  E SPEEDWAY            BLVD                    TUCSON         AZ85712              N
+R & R REAL ESTATES LLC                                      20190220PLL            LLC5341  E SPEEDWAY            BLVD                    TUCSON         AZ85712              N
+TUCSON INDOOR SPORTS CENTER                                 20191107PLL            LLC1065  W GRANT               RD                      TUCSON         AZ85705              N
+TUCSON INDOOR SPORTS CENTER                                 20191107PLL            LLC1065  W GRANT               RD                      TUCSON         AZ85705              N
+FARIBAULT FOODS                                             20191201PLL            CRP8755  S RITA                RD                      TUCSON         AZ85747              N
+FARIBAULT FOODS                                             20191201PLL            CRP8755  S RITA                RD                      TUCSON         AZ85747              N
+CONCEPCION ZEPEDA                                           20191216PLL            SOL2460  W ARMADILLO           ST                      TUCSON         AZ85713              N
+CONCEPCION ZEPEDA                                           20191216PLL            SOL2460  W ARMADILLO           ST                      TUCSON         AZ85713              N
+SOUTHWEST TREKKING GUIDED ADVENTURES                        20191001PLL            LLC5251  E MISSION HILL        DR  10                  TUCSON         AZ85718              N
+SOUTHWEST TREKKING GUIDED ADVENTURES                        20191001PLL            LLC5251  E MISSION HILL        DR  10                  TUCSON         AZ85718              N
+TU KAETS STUDIOS LLC                                        20200101PLL            LLC3902  E 17TH                ST                      TUCSON         AZ85711              N
+MARMAGO LLC                                                 20200102PLL            LLC656   E EAST BLUE ROCK WAY  WAY                     VAIL           AZ85641    5202278383N
+W.A. RASIC CONSTRUCTION COMPANY INC                         20191217PLL            CRP4150    LONG BEACH          BLVD                    LONG BEACH     CA90807              N
+W.A. RASIC CONSTRUCTION COMPANY INC                         20191217PLL            CRP4150    LONG BEACH          BLVD                    LONG BEACH     CA90807              N
+MR. A+ TUTORING                                             20200106PLL            LLC10567 E OTTOMAN             DR                      TUCSON         AZ85747              N
+MASSBOX LLC                                                 20191217PLL            LLC8234  N STONEHILL           DR  103                 TUCSON         AZ85743              N
+MASSBOX LLC                                                 20191217PLL            LLC8234  N STONEHILL           DR  103                 TUCSON         AZ85743              N
+KING D BARBECUE                                             20191217PLL            LLC9225  E TANQUE VERDE        RD  23103               TUCSON         AZ85749              N
+KING D BARBECUE                                             20191217PLL            LLC9225  E TANQUE VERDE        RD  23103               TUCSON         AZ85749              N
+TUCSON BEEKEEPER                                            20200301PLL            SOL0       PO BOX 235001                               ENCINITAS      CA92023              N
+MONKEY BURGER                                               20200101PLL            LLC5350  E BROADWAY            BLVD128-130             TUCSON         AZ85711              N
+GLAM'D UP LLC                                               20191220PLL            LLC7821  N NICOLE              PL                      TUCSON         AZ85741              N
+GLAM'D UP LLC                                               20191220PLL            LLC7821  N NICOLE              PL                      TUCSON         AZ85741              N
+A.J.E.                                                      20191223PLL            SOL610   E MOHAVE              RD  214                 TUCSON         AZ85705    7022103624N
+ARIZONA ONCOLOGY ASSOCIATES, PC                             20191216PLL            CRP1760  E CRAYCROFT           RD  350                 TUCSON         AZ85718    5205197793N

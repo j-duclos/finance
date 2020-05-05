@@ -1,0 +1,63 @@
+CYCLOPSICLE                                                 20111214PLL1199  722213SOL424   S FREMONT             AVE                     TUCSON         AZ85719              N
+D&L HANDYMAN UNLIMITED                                      20120101PLL            LLC9437  S OLD SOLDIER         TR                      VAIL           AZ85641              N
+D&L BUILDING & REMODELING LLC                               20120101PLL            LLC9437  S OLD SOLDIER         TR                      VAIL           AZ85641              N
+BAJA TACOS                                                  20111214PLL1199  722330SOL4111  N FLOWING WELLS       RD  15101               TUCSON         AZ85705              N
+PUEBLO INCOME TAX SERVICES                                  20111117SVL9998  541213SOL0       PO BOX 935                                  TUCSON         AZ85702              N
+PUEBLO INCOME TAX SERVICES                                  20111117SVL9998  541213SOL0       PO BOX 935                                  TUCSON         AZ85702              N
+MADE-UP DESIGNS LLC                                         20120102PLL            LLC2902  N CASCADA             CI                      TUCSON         AZ85715    5204050555N
+ENERGY 1ST EXTERIORS, LLC                                   20120101PLL            LLC500   N 56TH                ST  6                   CHANDLER       AZ85226    4806562904N
+MYGO2GUY HANDYMAN SERVICES                                  20110901PLL1599  236118SOL6612  W SYDNEY              CT                      TUCSON         AZ85757    5202894749N
+MYGO2GUY HANDYMAN SERVICES                                  20110901PLL1599  236118SOL6612  W SYDNEY              CT                      TUCSON         AZ85757    5202894749N
+SPECTRA KITCHEN AND BATH                                    20111215PLL               1530  E BENSON              HY                      TUCSON         AZ85714              N
+OMEGA CAB CO                                                20120101SVL            SOL1164  N CATALINA            AV                      TUCSON         AZ85712              N
+SARAI'S CLEANUP                                             20111215SVL            SOL1917  E JASON               VIS                     TUCSON         AZ85713              N
+AZ EAGLE TAXI                                               20111215SVL9998  485310SOL5214  E PIMA                ST  E                   TUCSON         AZ85712              N
+AZ EAGLE TAXI                                               20111215SVL9998  485310SOL5214  E PIMA                ST  E                   TUCSON         AZ85712              N
+A WAVE OF A WAND CLEANING SERVICES                          20111215SVL            SOL4601  E SKYLINE             DR  104                 TUCSON         AZ85718              N
+A WAVE OF A WAND CLEANING SERVICES                          20111215SVL            SOL4601  E SKYLINE             DR  104                 TUCSON         AZ85718              N
+KING SMOKE SHOP                                             20110505PLL1799  453991LLC9402  E SANDY WHISKERS      PL                      TUCSON         AZ85746              N
+KING SMOKE SHOP                                             20110505PLL1799  453991LLC9402  E SANDY WHISKERS      PL                      TUCSON         AZ85746              N
+DJJ AUDIO & VISUAL SOLUTIONS                                20120101SVL            SOL9225  E TANQUE VERDE        ROAD31102               TUCSON         AZ8574987188502406897N
+NOVEDADES ROSITA                                            20110201PLL1799  448140SOL1402  W AJO WAY                 316                 TUCSON         AZ85713    5203076543N
+DANCING HARES VINEYARD, LLC                                 20111118PLL1799  445310LLC0       PO BOX 853                                  SAINT HELENA   CA94574    7079678296N
+CRAFT'S BY CHRIS                                            20111201PLL1799  454390SOL8952  S BEECHNUT            LN                      TUCSON         AZ85756              N
+CRAFT'S BY CHRIS                                            20111201PLL1799  454390SOL8952  S BEECHNUT            LN                      TUCSON         AZ85756              N
+GENA VIDAL                                                  20111219SVL9998  812112SOL6639  E BROADWAY            BLVD101                 TUCSON         AZ85710              N
+GENA VIDAL                                                  20111219SVL9998  812112SOL6639  E BROADWAY            BLVD101                 TUCSON         AZ85710              N
+MERIDIAN SURVEYING & DEVELOPMENT                            20120101SVL            LLC350   S WILLIAMS            BL  170                 TUCSON         AZ85711    5203256990N
+EZ EXPRESS                                                  20110701PLL179924454111PRT2726  S JAGUAR              RD                      TUCSON         AZ85730              N
+EZ EXPRESS                                                  20110701PLL179924454111PRT2726  S JAGUAR              RD                      TUCSON         AZ85730              N
+ALMA TRANSPORT GROUP                                        20110112SVL            SOL1401  S 6TH                 AV                      TUCSON         AZ85713              N
+ALMA TRANSPORT GROUP                                        20110112SVL            SOL1401  S 6TH                 AV                      TUCSON         AZ85713              N
+EAGLE EYE ALARM LLC                                         20120101PLL            LLC4000  E FRANKFORT           SV                      TUCSON         AZ85706              N
+SASHA VOLPE                                                 20111216SVL9998  711510SOL7400  E GOLF LINKS          ROAD404                 TUCSON         AZ85730              N
+SASHA VOLPE                                                 20111216SVL9998  711510SOL7400  E GOLF LINKS          ROAD404                 TUCSON         AZ85730              N
+ROBLES DIAMOND CLEANING AND MORE                            20111216SVL            SOL4641  E 32ND                ST                      TUCSON         AZ85711              N
+ROBLES DIAMOND CLEANING AND MORE                            20111216SVL            SOL4641  E 32ND                ST                      TUCSON         AZ85711              N
+PRETZEL MAKER PARK PLACE MALL LLC                           20111201PLL119917722213LLC5870  E BROADWAY            BL  STE K12             TUCSON         AZ85711              N
+PRETZEL MAKER PARK PLACE MALL LLC                           20111201PLL119917722213LLC5870  E BROADWAY            BL  STE K12             TUCSON         AZ85711              N
+GOLDEN BRUSH PAINTING                                       20080101PLL15    238320LLC4194  N BOULDER CANYON      PL                      TUCSON         AZ85750    5207306704N
+GOLDEN BRUSH PAINTING                                       20080101PLL15    238320LLC4194  N BOULDER CANYON      PL                      TUCSON         AZ85750    5207306704N
+MAGIC TOUCH CLEANING SERVICE                                20120101SVL            SOL902   W MACARTHUR           ST                      TUCSON         AZ85714              N
+JONES CONCRETE CONSTRUCTION, LLC                            20111219PLL15    238110LLC5660  S 32ND                ST  101                 PHOENIX        AZ85040    6023239191N
+JONES CONCRETE CONSTRUCTION, LLC                            20111219PLL15    238110LLC5660  S 32ND                ST  101                 PHOENIX        AZ85040    6023239191N
+THE TUCSON GUYS LLC                                         20110815PLL            LLP4226  E 4TH                 PL                      TUCSON         AZ8571119195202716285N
+UPPER CRUST FOOD SERVICE, LLC                               20120111PLL            LLC108   E GREEN MEADOWS       RD  6                   COLUMBIA       MO65203    5738647415N
+AIRGAS USA, LLC                                             20120101PLL            LLC0       PO BOX 6675                                 RADNOR         PA19087    6106875253N
+MITCHELL WOODWORKS                                          20111216PLL17    454390SOL6771  N PRAIRIE             DR                      TUCSON         AZ85743    5204379218N
+RUE DE LA MARGUERITE, LLC                                   20110801PLL1799  454390LLC2948  E WINTERHAVEN         DR                      TUCSON         AZ85716    9175583931N
+A-1 QUALITY TRANSPORTATION                                  20111219SVL            SOL1013  E GLENN               ST                      TUCSON         AZ85719              N
+A-1 QUALITY TRANSPORTATION                                  20111219SVL            SOL1013  E GLENN               ST                      TUCSON         AZ85719              N
+ART MODERNA LLC                                             20120101PLL            LLC3809  N ORACLE              RD  #B                  TUCSON         AZ85705              N
+JAUNTY KREATIONS                                            20120101PLL            SOL5096  S HANNAH HEATHER      PL                      TUCSON         AZ84747              N
+ROSA'S CLEANING                                             20111001SVL            SOL3425  S BELMAR              AV                      TUCSON         AZ85713              N
+7-ELEVEN                                                    20111221PLL            SOL1902  S ALVERNON            WAY                     TUCSON         AZ85711    5207480424N
+7-ELEVEN                                                    20111221PLL            SOL1902  S ALVERNON            WAY                     TUCSON         AZ85711    5207480424N
+ALL VALLEY HEATING & AIR INC                                20111220PLL            CRP1408  W CANYON SHADOWS      LN                      TUCSON         AZ85737              N
+RKKI LLC PROPERTIES LLC                                     20111118PLL1399  531120LLC8901  E ROSEWOOD            ST                      TUCSON         AZ857102657          N
+RKKI LLC PROPERTIES LLC                                     20111118PLL1399  531120LLC8901  E ROSEWOOD            ST                      TUCSON         AZ857102657          N
+FRANK LOZANO LMT                                            20111219SVL9998  812199SOL3168  E KLEINDALE           RD  2                   TUCSON         AZ85716              N
+LAW OFFICE OF EDMINSON-O'BRIEN, PLLC                        20111121SVL            LLC4451  N TORTOLITA           RD                      TUCSON         AZ85745              N
+CDR LEASING, LLC                                            20111101PLL            LLC5310  W CHICAGO ST                                  CHANDLER       AZ85226    6027680711N
+REDPOINT WEB MARKETING                                      20111220SVL            SOL180   W GREER               LN                      TUCSON         AZ85704              N
+ADVANCED DATA SYSTEMS CORP                                  20111101PLL            CRP15      PROSPECT            ST                      PARMAUS        NJ07652    2013682001N

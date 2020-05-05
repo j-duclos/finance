@@ -1,0 +1,89 @@
+SCS TILE INC                                                20150501PLL1799  444190CRP840   E FORT LOWELL         RD                      TUCSON         AZ85719              N
+SUTURE EXPRESS INC                                          20150301PLL17    423450CRP11020   KING                ST  400                 OVERLAND PARK  KS66210              N
+ADAM LEE                                                    20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+MILLER JEREMIAH EZRA                                        20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+KAMUELA KEANE KUPIHEA                                       20150429SVL            SOL10950 N LA CANADA           DR  7204                ORO VALLEY     AZ85737              N
+SEBASTIEN SAVILLE                                           20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+STETSON RORY PENTICO                                        20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+CLEENPUT PETER JAMES                                        20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ857375940          N
+JOHN LOGAN DEGRAFFENRIED                                    20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+TOLLESTRUP DEREK P                                          20150429SVL            SOL10450 N LA CANADA           DR                      TUCSON         CA85737              N
+HIOSSEN INC                                                 20150401PLL17    339113CRP85      BEN FAIRLESS        DR                      FAIRLESS HILLS PA19030              N
+C'JAY KIM FULLER                                            20150429SVL            SOL1711  W RIVER VIEW          DR                      BLUFFDALE      UT84065              N
+GUTIERREZ SHANE MICHAEL                                     20150429SVL            SOL10950 NELA CANADA           DR  12105               TUCSON         AZ857375940          N
+BRYAN MARSHAL PRESTON                                       20150429SVL            SOL10950 N LA CANADA           DR  20204               TUCSON         AZ85737              N
+JONPAUL WINTON                                              20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+BOHNET MICHAEL ROBERT                                       20150429SVL            SOL10950 N LA CANADA           DR  12105               TUCSON         AZ85737              N
+GARRETT SCOTT PATTINSON                                     20150429SVL            SOL10950 N LA CANADA           DR  22-206              TUCSON         AZ85737              N
+BUILDING CONTROL SYSTEMS LLC                                20150501PLL            LLC2205  W LONE CACTUS         DR  19                  PHOENIX        AZ850272651          N
+SAMMIA                                                      20150501PLL179998811122CRP3840  S AVENIDA DE LAS PALAM                        TUCSON         AZ85730              N
+EVOLUTION GLASS & GLAZING INC                               20150401PLL15    238150CRP2502  E FLOWER              ST                      PHOENIX        AZ85016              N
+OPTIMAL EDU OPTIONS                                         20150101SVL            LLC9725  W MARCO POLO          RD                      PEORIA         AZ85382    6029041282N
+AD VANCE ART TAZ                                            20150426PLL17    711510SOL2610  W JADE                ST                      TUCSON         AZ85705              N
+JOHNS MANVILLE                                              20150101PLL17    327993CRP0       PO BOX 17086                                DENVER         CO80217              N
+BP ANNEX LLC                                                20150507PLL            LLC3915  E BROADWAY            BLVD400                 TUCSON         AZ85711              N
+MICHAEL SALOMON CPA                                         20150202SVL            SOL2813  E BROADWAY            BL  B                   TUCSON         AZ85716    5207777293N
+EIGHTH BYTE LLC                                             20150501PLL            LLC2012  E BROADWAY            BL  212                 TUCSON         AZ85719    5203602751N
+CJ SURGICAL ASSISTING                                       20150601SVL            LLC5963  E FRANKLIN TALE       DR                      TUCSON         AZ85756    5203903862N
+JWB LANDSCAPE MAINTENANCE & DESIGN LLC                      20150430SVL            LLC8784  N WELLSIDE            DR                      TUCSON         AZ85743              N
+T & M CREATIONS LLC                                         20150511PLL            LLC15422 N 60TH                AVE                     GLENDALE       AZ85306              N
+CANCER PREVENTION PHARMACEUTICALS INC                       20150101PLL99    541710CRP1760  E RIVER               RD  250                 TUCSON         AZ85718              N
+CANCER PREVENTION PHARMACEUTICALS INC                       20150101SVL99    541710CRP1760  E RIVER               RD  250                 TUCSON         AZ85718              N
+PRINCE ROAD PLAZA LLC                                       20150129PLL1399  531120PRT8871    CHAMBRAY            RD                      ELK GROVE      CA95624              N
+ANAYA PHYSICAL THERAPY PC                                   20150101PLL99    621399CRP165   W AJO                 WAY                     TUCSON         AZ85713    5202949334N
+ANAYA PHYSICAL THERAPY PC                                   20150101SVL99    621399CRP165   W AJO                 WAY                     TUCSON         AZ85713    5202949334N
+TITIS CLEANING SERVICES                                     20150430SVL9899  561720SOL3325  E BLACKLIDGE          DR                      TUCSON         AZ85716              N
+SUCASA PAINTING                                             20150430PLL            SOL3441  N CALLE LARGO                                 TUCSON         AZ85750              N
+360 COLLISION CENTER LLC                                    20150501PLL1799  811121LLC0       PO BOX 18606                                TUCSON         AZ85731              N
+THE MAGIC SHOP                                              20150401PLL1799  451120SOL0       PO BOX 396                                  VAIL           AZ85641              N
+MARZENA HALINA FULLER                                       20150430SVL9998  812990SOL9620  E BABER               LN                      TUCSON         AZ85747              N
+ULTIMATE AUTO BOUTIQUE LLC                                  20150509PLL            LLC770   W GRANT               RD                      TUCSON         AZ85705              N
+QQ SUSHI TRAIN LLC                                          20150611PLL            LLC1175  N JEFFERSON           AVE 111                 TUCSON         AZ85712              N
+FASHION ACCESSORIES 1                                       20150501PLL1799  448140SOL5770  E 10TH                ST  22                  TUCSON         AZ85711              N
+FASHION ACCESSORIES 2                                       20150501PLL1799  448120SOL5770  E 10TH                ST  22                  TUCSON         AZ85711              N
+GAWNE DESIGNS LLC                                           20150402SVL            LLC3722  N TRES LOMAS          PL                      TUCSON         AZ85749    5202305960N
+MAX INVESTMENTS NO. 1, LLC                                  20150501PLL            LLC5989  E GRANT               ROAD                    TUCSON         AZ85712    5207477576N
+LA TERRAZA APARTMENTS                                       20150101PLL            TRT7777    ALVARADO            ROAD720                 LA MESA        CA91942    6197130720N
+BANC OF CALIFORNIA, NATIONAL A                              20150501PLL            CRP0       PO BOX 2149                                 GIG HARBOR     WA98335    2538518804N
+ATC MANAGED SITES, LLC                                      20150401PLL            LLC0       PO BOX                                      MONSEY         NY10952              N
+ATC MANAGED SITES, LLC                                      20150401PLL            LLC0       PO BOX                                      MONSEY         NE10952              N
+ATC MANAGED SITES, LLC                                      20150401PLL            LLC21      ROBERT PITT         DR                      MONSEY         NY10952              N
+B.H. PELLA DRIVE, LLC                                       20150401PLL            LLC0       PO BOX 49993                                LOS ANGELES    CA90049    3108208888N
+SERIAL GRILLERS PIZZA                                       20150220PLL1199  722211LLC5737  E SPEEDWAY            BLVD                    TUCSON         AZ85712              N
+PREMIER EDUCATION LLC                                       20150224SVL9998  611519LLC4007  E PARADISE FALLS      DR  212                 TUCSON         AZ85712              N
+ONLY BOOKKEEPING MOBILE                                     20150501SVL9998  541219SOL10584 E ROSE HILL           ST                      TUCSON         AZ857475963          N
+BROADWAY PROPERTY 3402 LLC                                  20150401PLL1399  531120LLC1402  E PLACITA MESETA DORAD                        ORO VALLEY     AZ85755              N
+DESERT PAINT                                                20150501PLL            SOL8250  E GOLFLINKS               71                  TUCSON         AZ85730              N
+HEWLETT PACKARD ENTERPRISE COMPANY                          20150801PLL            CRP0       PO BOX 251209                               PLANO          TX75025              N
+VOLTA                                                       20150201PLL            LLC2155  E JONES               AVE                     PHOENIX        AZ85040              N
+KAUFINATOR LLC                                              20150501PLL1799  424330LLC1505  W SAINT MARYS         RD  137                 TUCSON         AZ85745              N
+A TENDER TRANSITION LLC                                     20150601SVL            LLC10324 E EDNA                PL                      TUCSON         AZ85748              N
+LESLIE CHO NEWMAN JEWELRY DESIGN                            20150501PLL1799  454390SOL529   S MEYER               AV                      TUCSON         AZ887012209          N
+DOLLAR TREE #5878                                           20150611PLL            CRP500     VOLVO               PKWY                    CHESAPEAKE     VA23320              N
+DALZELL MICHAEL ALAN                                        20150501SVL            SOL718   E 8TH                 ST                      TUCSON         AZ85719              N
+1249 21ST STREET LLC                                        20080101PLL1399  531120LLC1249  E 21ST                ST                      TUCSON         AZ857196714          N
+DESERT COURTYARD HOMES LLC                                  20150220PLL            LLC2696  N MEGAFAUNA           CT                      TUCSON         AZ85749    5208919043N
+BAT CAVE LLC                                                20150501PLL            LLC5160  N CIRCULO SOBRIO                              TUCSON         AZ8571860365205297088N
+ATC MANAGED SITES, LLC                                      20150401PLL            LTD0       PO BOX                                      MONSEY         NY10952              N
+ATC MANAGED SITES, LLC                                      20150401PLL            LLC0       PO BOX                                      MONSEY         NE10952              N
+ALTAR MUSIC ELECTRONICS                                     20150501SVL            SOL949   N VAN ALSTINE         ST                      TUCSON         AZ8570575495204840904N
+WILLMORE MANUFACTURING                                      20150424PLL            CRP2465  N HUACHUCA            DR                      TUCSON         AZ85745              N
+STEVE IIAMES GARNER AUTOMOTIVE                              20150507PLL            LLC2699  S PANTANO             RD                      TUCSON         AZ85730    5208854935N
+GRAFFIC PRODUCTIONS                                         20150501PLL            SOL5311  S MORNING SKY         LN                      TUCSON         AZ85747              N
+FRED SCHERRER DBA SCHERRER WIN                              20150409PLL            SOL966     TILLER              LN                      SEBASTOPOL     CA95472    7078238980N
+VEGAN TOOLBOX                                               20150501PLL            LLC2821  N COLUMBUS            BLVD19                  TUCSON         AZ8571216265204291583N
+MINERVA ARTS SOCIETY LLC                                    20150402SVL            LLC7773  W TORNGAT             CT                      TUCSON         AZ85743    5209759271N
+RGA                                                         20150503PLL            SOL214   E SUFFOLK DR                                  Tucson         AZ85704    5204475737N
+1031 SOLUTIONS LLC                                          20070814PLL13    531120LLL825   S BARRINGTON          AVE                     LOS ANGELES    CA90049              N
+760 SOUTH STONE LLC                                         20130323PLL1399  531120LLC177   N CHURCH              AVE 200                 TUCSON         AZ85701              N
+DOUGLAS CLARK & NEAL MANNING                                20150101PLL1399  531120PRT259   N MEYER               ALY                     TUCSON         AZ85701              N
+PREFERRED PLACEMENT SERVICES                                20150505SVL            SOL461   E PLACITA NIDO                                SAHUARITA      AZ85629    5202971460N
+KEEPIN IT CLEAN                                             20150504SVL9998  999999SOL2947  E VIA BERLANGA                                TUCSON         AZ85706              N
+KING WAREHOUSE LLC                                          20141015PLL1399  531120LLC44    E BROADWAY            BLVD300                 TUCSON         AZ85701              N
+T & P A HOUSE CLEANING CO                                   20150504SVL            SOL1402  W AJO                 WAY 245                 TUCSON         AZ85713              N
+NIESA CHAPMAN                                               20150504SVL            SOL223   E SCHEIBE             WAY                     TUCSON         AZ85705              N
+ALAFIA WEST-AFRICAN CUISINE LLC                             20150101PLL17    722211LLC1070  N SWAN                RD                      TUCSON         AZ85711              N
+REPTILIA DEN LLC                                            20150525PLL            LLC3915  N CAMPBELL            AV  3-41                TUCSON         AZ85719    5209799909N
+CITYBYCOLE                                                  20150506SVL            SOL623   S LA VISTA            PL                      TUCSON         AZ85710    5203519668N
+CANO MEDIATION SERVICES, LLC                                20150301SVL            LLC177   N CHURCH              AV  200                 Tucson         AZ85701    5203438001N
+JENNIFER MEAD CREATIVE LLC                                  20150101SVL            LLC33    S 5TH                 AV                      TUCSON         AZ85705    5202501741N

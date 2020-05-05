@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{%  block head %}
+    <title>Business License Downloads</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="http://www.tucsonaz.gov/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="P3P" content='CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"' />
+{%  endblock %}
+
+{% block body %}
+<h1>Test Body Header</h1>
+    <ul>
+    {%- for item in tree.children recursive %}
+        <li>{{ item.name }}
+            {%- if item.children -%}
+            <ul><a href="{{ loop(item.children) }}" download>{{ loop(item.children) }}</a></ul>
+            {%- endif %}
+        </li>
+    {%- endfor %}
+    </ul>
+
+    <a href="C:\Users\jduclos1\AppDev\finance\business-license-downloads\20110119.BUSLICW.txt" download>Test</a>
+
+{% endblock %}
